@@ -1,6 +1,6 @@
-# MSigPred
-Mutational signature-based tumor genomic subtype prediction method for cancer samples.  
-<img src=https://github.com/shirotak/MSigPred/blob/master/documentation/Pipeline_overview.p width="500">  
+# TGSA
+Tumor Genomic Subtype Analyzer (TGSA) is a tool for *** .  
+<img src=https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/documentation/Pipeline_overview.png width="500">  
 ___
 ## Requirements & Preparations
 ### Python >= 3.7.4
@@ -63,20 +63,20 @@ cd script
 bash test_run.sh
 ```
 This will generates the following files in the "test/output" directory
--  [cancer_sample01_decomposed.tsv](https://github.com/shirotak/MCPred/blob/master/test_data/output/cancer_sample01_decomposed.tsv)
--  [cancer_sample01_predict.tsv](https://github.com/shirotak/MCPred/blob/master/test_data/output/cancer_sample01_prediction.txt)
+-  [cancer_sample01_decomposed.tsv](https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/cancer_sample01_decomposed.tsv)
+-  [cancer_sample01_predict.tsv](https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/cancer_sample01_prediction.txt)
 -  cancer_sample01_umap.png
-<img src=https://github.com/shirotak/MCPred/blob/master/test_data/output/cancer_sample01_umap.png width="350">
+<img src=https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/cancer_sample01_umap.png width="350">
 
--  [cancer_samples_10_decomposed.tsv](https://github.com/shirotak/MCPred/blob/master/test_data/output/cancer_samples_10_decomposed.tsv)
--  [cancer_samples_10_table.tsv](https://github.com/shirotak/MCPred/blob/master/test_data/output/cancer_samples_10_prediction.txt)
+-  [cancer_samples_10_decomposed.tsv](https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/cancer_samples_10_decomposed.tsv)
+-  [cancer_samples_10_table.tsv](https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/cancer_samples_10_prediction.txt)
 -  cancer_samples_10_umap.png  
-<img src=https://github.com/shirotak/MCPred/blob/master/test_data/output/cancer_samples_10_umap.png width="350">  
+<img src=https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/cancer_samples_10_umap.png width="350">  
 
--  [TCGA_mutect2_random100_1_decomposed.tsv](https://github.com/shirotak/MCPred/blob/master/test_data/output/TCGA_mutect2_random100_1_decomposed.tsv)
--  [TCGA_mutect2_random100_1_table.tsv](https://github.com/shirotak/MCPred/blob/master/test_data/output/TCGA_mutect2_random100_1_prediction.txt)
+-  [TCGA_mutect2_random100_1_decomposed.tsv](https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/TCGA_mutect2_random100_1_decomposed.tsv)
+-  [TCGA_mutect2_random100_1_table.tsv](https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/TCGA_mutect2_random100_1_prediction.txt)
 -  TCGA_mutect2_random100_1_umap.png
-<img src=https://github.com/shirotak/MCPred/blob/master/test_data/output/TCGA_mutect2_random100_1_umap.png width="350">  
+<img src=https://github.com/shirotak/pancancer_MutSig_ICI/blob/main/TGSA/test_data/output/TCGA_mutect2_random100_1_umap.png width="350">  
 
 ___
 ## Getting Help  
