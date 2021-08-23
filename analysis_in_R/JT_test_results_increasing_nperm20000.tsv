@@ -1,0 +1,5 @@
+CancerType	Sig4_ratio	ID3_ratio
+LUAD	5e-05	5e-05
+LUSC	0.0112	0.0332
+HNSC	5e-05	5e-05
+BLCA	0.00205	5e-05
