@@ -1,0 +1,1092 @@
+CancerType_lung	Signature4_ratio	Smoking3_order
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	10.97369911164304	3.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	3.0
+LUAD	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+LUSC	71.43491605943093	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	26.71204814275284	3.0
+LUSC	29.562199626094987	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	1.889275739018536	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+LUAD	84.96453411806596	1.0
+LUAD	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	4.357974806042378	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+LUAD	78.28495560010921	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	3.0
+non-lung cancer	23.29123261878643	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.3937267983371965	2.0
+non-lung cancer	2.409780651039397	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	
+LUAD	80.87119026608981	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	2.0
+non-lung cancer	20.678602683202417	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUAD	0.0	1.0
+non-lung cancer	15.746372766008127	1.0
+non-lung cancer	0.8508983331388109	3.0
+LUSC	26.47538549986805	3.0
+LUAD	67.75879119595116	3.0
+LUAD	50.09432370119047	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	19.42813313246625	3.0
+LUAD	0.0	1.0
+LUAD	35.41085640061881	3.0
+non-lung cancer	1.503722441317908	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	1.0
+non-lung cancer	6.565284235657155	1.0
+non-lung cancer	0.0	1.0
+LUSC	37.488550327165335	3.0
+LUAD	0.0	1.0
+LUAD	36.29990626289963	2.0
+LUAD	70.36103493470569	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+LUSC	44.264097490097335	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	5.381091333672286	3.0
+non-lung cancer	0.0	1.0
+LUAD	9.97580512072777	1.0
+LUSC	0.0	3.0
+non-lung cancer	18.381522753045207	1.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	32.39067438467766	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	10.914726832378523	3.0
+LUSC	40.86346928017149	2.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	
+non-lung cancer	1.6654965039810403	3.0
+non-lung cancer	27.67526094629624	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+LUSC	55.20699882040972	3.0
+non-lung cancer	0.0	1.0
+LUSC	32.642522101849835	3.0
+non-lung cancer	14.13833939490831	1.0
+non-lung cancer	0.0	
+LUSC	35.98957790237628	2.0
+LUSC	59.058982939468464	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	28.51048849023698	3.0
+non-lung cancer	6.101697068504548	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	7.783257552703598	1.0
+LUSC	40.65009362577724	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	3.489831606277317	3.0
+non-lung cancer	22.29401075953565	
+non-lung cancer	17.665855700541083	1.0
+non-lung cancer	14.896679582811103	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUAD	0.0	1.0
+non-lung cancer	9.681728366252797	3.0
+non-lung cancer	11.70446866290614	
+non-lung cancer	0.0	1.0
+LUSC	34.92652647878572	3.0
+non-lung cancer	35.290399703681906	3.0
+non-lung cancer	2.3464491025881604	1.0
+LUAD	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	33.94260248294266	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	52.77317074394815	
+non-lung cancer	0.0	
+non-lung cancer	0.0	3.0
+non-lung cancer	28.079844122071524	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+LUSC	54.58278468910438	3.0
+LUSC	55.91187311076177	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUSC	0.0	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+LUAD	72.92485349220621	3.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	3.0
+LUAD	0.0	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	21.268288204377768	
+LUAD	84.77746306425247	3.0
+LUSC	71.4967901605124	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+LUSC	24.147702257387635	3.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	23.08675393929453	1.0
+non-lung cancer	0.0	
+non-lung cancer	17.018421952449266	1.0
+LUAD	5.290430502051764	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	21.40895752773505	3.0
+non-lung cancer	0.0	2.0
+LUAD	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+LUAD	61.184362233660536	3.0
+non-lung cancer	12.274715575839387	1.0
+LUAD	0.0	1.0
+LUAD	12.023017677013687	1.0
+non-lung cancer	0.0	
+LUAD	73.36956024189918	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	3.508010443481522	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	5.599867910838401	
+LUAD	79.50049646228653	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+LUAD	0.0	1.0
+LUSC	37.46008618659918	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUSC	23.729877124860444	3.0
+LUSC	21.205359076110557	3.0
+non-lung cancer	6.461114535750615	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	2.324839050109195	2.0
+non-lung cancer	0.0	
+LUSC	10.021777110716926	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	13.953112408593734	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	3.6681044540663694	
+LUAD	77.2882954894031	1.0
+LUSC	32.529869886005024	3.0
+LUAD	74.34990964589889	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	14.71976491152051	3.0
+LUSC	19.699314467018265	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+LUAD	63.70603421939238	3.0
+LUSC	0.0	3.0
+non-lung cancer	0.0	2.0
+LUSC	66.7439418780989	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	40.02182112663125	3.0
+non-lung cancer	0.0	3.0
+LUSC	49.77561793891928	3.0
+LUSC	39.883304890564325	3.0
+non-lung cancer	0.0	3.0
+LUSC	0.0	1.0
+non-lung cancer	4.51722590954112	1.0
+LUAD	72.62755148068015	1.0
+LUSC	22.257421857284925	3.0
+non-lung cancer	0.0	2.0
+LUAD	0.0	3.0
+non-lung cancer	7.458276323793403	1.0
+non-lung cancer	0.0	
+LUSC	30.912291089271328	2.0
+non-lung cancer	10.172931439151771	2.0
+LUSC	42.0932640410941	3.0
+LUSC	29.16285207351661	3.0
+LUAD	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	1.0
+LUSC	24.74554221891678	2.0
+LUAD	72.34844287814092	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.766017190772694	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	3.0362992782875224	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+LUAD	80.72112210328167	1.0
+non-lung cancer	47.50138430565449	3.0
+non-lung cancer	8.761768207146332	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	2.0
+non-lung cancer	5.506406011863852	
+LUAD	0.0	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUAD	42.85264570587361	3.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	2.0
+non-lung cancer	30.363848059603644	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	88.85951685760716	2.0
+non-lung cancer	2.9878722358991427	3.0
+LUAD	42.16366732627778	3.0
+LUSC	34.520174716485585	3.0
+non-lung cancer	0.0	1.0
+LUAD	85.0197674828616	3.0
+non-lung cancer	47.267800670237634	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	6.88974705294806	
+LUSC	75.32744106335882	3.0
+non-lung cancer	0.0	2.0
+LUSC	51.154716404420434	2.0
+non-lung cancer	21.96271025880879	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUSC	19.362501875566444	3.0
+non-lung cancer	2.391044338271573	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	24.03552805117416	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	21.30630368291946	2.0
+non-lung cancer	0.0	2.0
+LUAD	68.26871844716975	2.0
+non-lung cancer	8.214720705697427	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.4904692593644795	
+non-lung cancer	0.0	
+LUAD	40.87274418926829	3.0
+LUAD	75.36926838718023	3.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	47.22798022704025	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+LUAD	75.71380442224337	3.0
+non-lung cancer	10.789901617559636	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	13.517792700257756	1.0
+non-lung cancer	0.0	
+non-lung cancer	8.888993126745925	1.0
+LUSC	57.19218327250364	3.0
+LUAD	12.875711162491148	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	26.64501357148705	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	2.0
+LUSC	28.05804451578152	1.0
+non-lung cancer	0.0	3.0
+LUSC	29.35446901182408	3.0
+LUAD	66.21128107030265	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	3.761654830603636	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	20.80047170120094	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.1422832442186322	
+non-lung cancer	13.450384362165437	
+non-lung cancer	16.05080391670127	
+non-lung cancer	2.5866777133709227	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	2.888019875073381	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	34.67711916760372	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	15.399170012645133	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	14.46884323480962	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	1.369737958349471	
+non-lung cancer	24.71331543118092	
+non-lung cancer	0.0	
+non-lung cancer	7.875266693025068	
+non-lung cancer	24.902595207102376	
+non-lung cancer	5.115543977741651	
+non-lung cancer	4.687449369865544	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	1.7600338224106746	
+non-lung cancer	32.27182442504139	
+non-lung cancer	3.652405985575424	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	50.2217836125166	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	7.394417657862141	
+non-lung cancer	5.92569975072846	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	33.79483605047192	
+non-lung cancer	11.660432339878035	
+non-lung cancer	2.115561894481345	
+non-lung cancer	0.5211398973134151	
+non-lung cancer	3.529166136791291	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	5.098494531307729	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	27.9158880414932	
+non-lung cancer	0.0	
+non-lung cancer	14.969114965313867	
+non-lung cancer	14.14713456497406	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	3.0715529255811216	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	3.0
+LUSC	29.177444199542418	1.0
+non-lung cancer	0.0	
+LUAD	0.0	1.0
+LUAD	77.28148126703175	3.0
+non-lung cancer	46.24162621603347	
+LUAD	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	50.61766568662941	1.0
+LUAD	70.17949432936751	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUSC	0.0	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUAD	8.123507407953484	1.0
+non-lung cancer	16.60542798417442	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+LUSC	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	52.50070902194992	3.0
+non-lung cancer	22.834371249328704	2.0
+LUSC	32.75269907754958	3.0
+non-lung cancer	0.3558753955744846	1.0
+non-lung cancer	11.196772321399411	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUSC	0.0	2.0
+non-lung cancer	0.912539100661598	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	8.159632036802513	1.0
+non-lung cancer	6.425074883649301	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	
+LUSC	32.88295391032024	3.0
+non-lung cancer	21.970596068180274	
+non-lung cancer	27.22012154990136	
+non-lung cancer	29.53169466730749	
+non-lung cancer	0.0	3.0
+LUSC	47.416537088517565	3.0
+non-lung cancer	3.8291492733343953	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	11.90618431011167	3.0
+non-lung cancer	6.153574355151811	1.0
+non-lung cancer	13.881912341178104	1.0
+LUAD	53.42503136821165	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	4.167889967325753	1.0
+LUSC	10.710239511487808	3.0
+non-lung cancer	0.0	
+LUAD	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	3.055404498723079	3.0
+LUSC	59.275260973408336	3.0
+non-lung cancer	11.217717343566052	2.0
+non-lung cancer	0.0	1.0
+LUSC	0.0	1.0
+LUAD	87.94589772431732	1.0
+non-lung cancer	13.945653348370548	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.6911581627449124	3.0
+LUAD	0.692333575603094	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	6.71500507580205	
+non-lung cancer	0.0	1.0
+LUSC	32.89287228923804	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	82.25282858747188	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	1.0
+LUAD	74.55623127865202	1.0
+LUSC	52.48679469414167	2.0
+non-lung cancer	0.0	1.0
+LUSC	33.692880282741235	3.0
+non-lung cancer	7.039744585956988	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	21.465122797590965	
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	12.58597802335153	1.0
+non-lung cancer	22.42089229272234	
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	54.91874197189469	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.7364662920056827	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	12.33920211112838	3.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	47.16493127387579	1.0
+non-lung cancer	0.0	
+LUSC	0.7141529939128043	
+LUAD	69.10426981090438	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	12.50752618788384	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	12.87518580923462	1.0
+LUSC	49.08621931043686	3.0
+non-lung cancer	27.4795947297908	3.0
+LUSC	39.81506716196764	3.0
+LUSC	4.1779374286046345	2.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	3.347889801874848	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	1.0
+LUAD	71.35870549695682	1.0
+non-lung cancer	9.476963543640071	3.0
+non-lung cancer	14.341569655986614	1.0
+non-lung cancer	0.0	2.0
+LUAD	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	1.0
+LUSC	33.52378388194078	3.0
+non-lung cancer	0.3972216460104358	2.0
+non-lung cancer	0.0	1.0
+LUSC	54.72509049172284	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	2.0
+non-lung cancer	3.540657648018222	1.0
+non-lung cancer	16.50353530703152	3.0
+non-lung cancer	0.0	3.0
+LUSC	2.3416762631537806	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+LUAD	41.14697422032876	2.0
+non-lung cancer	4.1740628910466855	
+non-lung cancer	0.0	1.0
+LUAD	46.00297724564428	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.6449832244720517	2.0
+LUAD	0.0	3.0
+LUSC	33.229321494343786	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.922414048394168	2.0
+LUSC	38.90521160634944	3.0
+non-lung cancer	0.0	1.0
+LUAD	19.421190112632814	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	11.658952865382414	3.0
+LUAD	67.71093033350346	3.0
+non-lung cancer	0.0	2.0
+LUAD	0.0	
+LUSC	78.96153257391563	3.0
+LUSC	7.3697644303170255	3.0
+non-lung cancer	2.43039200147467	1.0
+LUSC	21.484620903391104	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	11.505437235461804	2.0
+non-lung cancer	0.0	1.0
+LUAD	17.08636704026782	3.0
+non-lung cancer	6.119748678163362	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	30.41852258266622	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	30.37500686015892	2.0
+LUAD	78.00494214278474	1.0
+LUSC	2.1981164052826565	2.0
+non-lung cancer	16.7351910011148	2.0
+non-lung cancer	27.80174812373693	1.0
+non-lung cancer	8.240740610427137	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	2.3029713971999497	3.0
+non-lung cancer	0.0	3.0
+LUSC	30.47883333023272	3.0
+non-lung cancer	11.437779210303374	
+non-lung cancer	0.0	2.0
+LUAD	0.0	1.0
+LUAD	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	20.33188324049389	1.0
+LUAD	0.0	1.0
+LUSC	22.81504718770591	1.0
+LUSC	31.9183478541322	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUSC	24.659887090115102	3.0
+non-lung cancer	20.51210990500768	1.0
+LUSC	40.86301477062688	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	5.0205154757140695	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	21.25303802765686	3.0
+LUSC	53.24474186200877	3.0
+non-lung cancer	0.0	3.0
+LUAD	0.0	2.0
+non-lung cancer	0.0	1.0
+LUAD	85.97557255639818	3.0
+non-lung cancer	9.043932918227403	
+non-lung cancer	15.691093773353092	1.0
+LUSC	9.855973641384203	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	11.965608282270722	1.0
+non-lung cancer	10.704813458748353	1.0
+LUSC	28.076819725875744	2.0
+LUSC	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	3.0
+LUSC	10.040762683858835	3.0
+LUAD	47.21364898998811	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	44.25894792901728	3.0
+LUAD	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	1.580687593951552	1.0
+non-lung cancer	0.0	1.0
+LUAD	67.49800231949132	3.0
+LUSC	7.617435227760954	3.0
+non-lung cancer	21.28894842235268	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+LUSC	2.054251088832639	1.0
+LUSC	29.548379849793232	3.0
+LUAD	70.8192818525331	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+LUAD	64.82324254364016	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	0.0	1.0
+non-lung cancer	17.61960615570441	1.0
+LUAD	48.823273278216426	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+LUSC	16.650849477984064	2.0
+non-lung cancer	7.738755963424721	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUSC	41.69530391842648	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.1688058963104704	3.0
+LUSC	49.40201620528919	
+non-lung cancer	5.18239353533069	1.0
+non-lung cancer	6.664576562438272	2.0
+non-lung cancer	0.0	2.0
+LUAD	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	30.79804160367217	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	1.387765201225541	
+LUSC	55.61606294192789	3.0
+non-lung cancer	16.862159356648764	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+LUSC	17.833251393933097	1.0
+LUAD	0.0	1.0
+LUAD	0.0	3.0
+LUSC	27.822579878134015	3.0
+non-lung cancer	0.0	2.0
+LUSC	39.48606924622727	3.0
+non-lung cancer	7.79333289212107	1.0
+LUAD	4.032574360388929	3.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	2.0
+non-lung cancer	10.703829308236855	1.0
+non-lung cancer	0.0	1.0
+LUAD	80.34277502929547	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	2.5044196468654567	2.0
+non-lung cancer	5.6413505879577945	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	82.97090932521355	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+LUAD	0.0	1.0
+LUSC	11.485846344925012	1.0
+LUAD	0.0	1.0
+LUSC	41.24809767961046	3.0
+LUAD	28.29673213510681	
+LUSC	3.5500722858946787	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+LUAD	5.439130064549397	2.0
+non-lung cancer	0.0	
+LUSC	56.85566140575673	3.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	26.3305610265699	
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	9.51591536002288	1.0
+non-lung cancer	0.0	3.0
+LUAD	0.0	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	8.23431834272002	1.0
+non-lung cancer	4.199961521300186	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+LUAD	43.69101542444688	2.0
+LUSC	24.44500384944288	
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	3.0
+LUAD	0.0	1.0
+LUSC	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	2.0
+non-lung cancer	0.0	
+non-lung cancer	3.3135280616031837	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	18.09735101039053	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+LUAD	63.89139433760407	1.0
+non-lung cancer	0.0	2.0
+LUAD	3.80270217092736	3.0
+LUSC	64.00906423169495	3.0
+non-lung cancer	5.820244218502744	1.0
+LUSC	21.79048327254017	
+non-lung cancer	13.76559172338944	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	2.8120497224256944	2.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	1.0
+non-lung cancer	44.46069233087289	1.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	10.763261686281997	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	
+non-lung cancer	4.158529602846479	
+LUSC	45.40403809941051	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	1.0
+LUSC	56.75304553311552	3.0
+non-lung cancer	0.0	1.0
+non-lung cancer	26.987915848400988	1.0
+non-lung cancer	3.607289316677482	1.0
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	4.559644506681335	
+non-lung cancer	0.0	
+non-lung cancer	36.5361089542784	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	6.763855016231295	
+non-lung cancer	18.774533283403144	
+non-lung cancer	2.284019281285712	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	6.248826173300013	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	3.3449225133839158	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	6.230748076234004	
+non-lung cancer	15.902956319170494	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	13.27841640436789	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	5.37108781032682	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	15.909100018313572	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	14.827128405770196	
+non-lung cancer	14.11772209833867	
+non-lung cancer	0.0	
+non-lung cancer	19.747426288336214	
+non-lung cancer	2.8168660940632293	
+non-lung cancer	2.683688509724635	
+non-lung cancer	0.0	
+non-lung cancer	18.4044413922968	
+non-lung cancer	0.0	
+non-lung cancer	0.3383000134971641	
+non-lung cancer	0.0	
+non-lung cancer	16.10945393100557	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	42.09648416994616	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	2.344522352999441	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.9724753375335704	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	11.818424627072403	
+non-lung cancer	0.0	
+non-lung cancer	5.096190674181809	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	11.137414037415285	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	7.591932584887802	
+non-lung cancer	0.0	
+non-lung cancer	11.63194513742022	
+non-lung cancer	0.0	
+non-lung cancer	16.14156274183995	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0010040967110981	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	26.00320951297205	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	6.918925833704153	
+non-lung cancer	0.0	
+non-lung cancer	8.575882641840558	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	2.7627190569335025	
+non-lung cancer	0.0	
+non-lung cancer	9.946048184390191	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.7029355392922025	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	3.3823732778348985	
+non-lung cancer	15.227895654147632	
+non-lung cancer	5.0761454683509095	
+non-lung cancer	0.0	
+non-lung cancer	4.583916802676472	
+non-lung cancer	19.966386058787418	
+non-lung cancer	0.0	
+non-lung cancer	7.0003067439482205	
+non-lung cancer	0.0	
+non-lung cancer	3.770837360421935	
+non-lung cancer	0.8601269430155146	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	9.11831468364346	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	3.784002339321471	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	1.1871513913953535	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	14.164098199073557	
+non-lung cancer	7.146981231844716	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	18.629258861576847	
+non-lung cancer	0.0	
+non-lung cancer	5.989450726794162	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	14.326702173542984	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	9.176192270986936	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	9.300585576565416	
+non-lung cancer	5.612820612204364	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	1.7605689802652795	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	0.0	
+non-lung cancer	4.558876140260155	

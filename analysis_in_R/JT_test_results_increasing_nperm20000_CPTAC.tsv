@@ -1,0 +1,4 @@
+CancerType	Sig4_ratio
+LUAD	0.00055
+LUSC	0.0029
+non-lung cancer	0.0219

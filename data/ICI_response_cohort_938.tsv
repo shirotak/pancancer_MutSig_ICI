@@ -1,4 +1,4 @@
-	Reference	Age	Sex	CancerType	CancerType details	Treatment	Best objective response	Responder	Tumor genomic subtype	TGS details	irGS	Missense_Mutation	Missense_Mutation_log10
+	Reference	Age	Sex	CancerType	CancerType details	Treatment	Best objective response	Responder	TGS	Details	irGS	Missense_Mutation	Missense_Mutation_log10
 CR04885	"Snyder, NEJM 2014"	49	Female	Melanoma	MEL	CTLA4	SD/PD	0	UVL	UVL:4	1	1603	3.205204364
 CR06670	"Snyder, NEJM 2014"	79	Female	Melanoma	MEL	CTLA4	CR/PR	1	UVL	UVL:4	1	468	2.671172843
 CR3665	"Snyder, NEJM 2014"	70	Male	Melanoma	MEL	CTLA4	SD/PD	0	UVL	UVL:4	1	117	2.071882007
