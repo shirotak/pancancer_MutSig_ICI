@@ -1,8 +1,10 @@
 # pan-cancer_MutSig_ICI
 This page provides processed data and codes to reproduce the main results of the paper.   
-Other codes for preprocessing public or restricted-access data are available from the corresponding author upon reasonable request.
+Other codes for preprocessing public or restricted-access data are available from the corresponding author upon reasonable request.  
+Almost all of the analysis codes are written in Python using Jupyter Lab/Notebook. Only some parts are written in R.
 ___
 ## Requirements
+All has been tested on Mac OSX and Linux.
 ### Python 3.7.4
 - numpy 1.19.5
 - pandas 1.2.3
@@ -17,8 +19,7 @@ ___
 - MutationalPatterns
 - BSgenome.Hsapiens.UCSC.hg19
 - BSgenome.Hsapiens.UCSC.hg38
-- GenomicRanges
-All has been tested on Mac OSX
+- GenomicRanges  
 ___
 ## Contents
 - analysis_in_R
