@@ -1,4 +1,5 @@
-# pan-cancer_MutSig_ICI
+# Tumor genomic subtypes orthogonal to mutation burden predict the efficacy of immune checkpoint therapy
+
 This page provides processed data and codes to reproduce the main results of the paper.   
 Other codes for preprocessing public or restricted-access data are available from the corresponding author upon reasonable request.  
 Almost all of the analysis codes are written in Python using Jupyter Lab/Notebook. Only some parts are written in R.
