@@ -26,8 +26,12 @@ ___
 ## Contents
 - analysis_in_R
 - data
-- scripts
+- code
 - results 
+___
+## LICENSE
+Data under the CC-BY-NC-4.0.  
+Codes under the MIT license.
 ___
 ## Citation
 Currently, the paper is published as a preprint in MedRxiv.  
