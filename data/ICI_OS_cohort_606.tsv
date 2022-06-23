@@ -1,0 +1,607 @@
+	Reference	Age_high	Age_category	Sex	CancerType	CancerType2	CancerType3	Treatment	Death	OS_MONTHS	irGS	TMB_high	irGS_anno	TMB_high_anno	class4	Missense_Mutation	Missense_Mutation_log10	ICI_single
+Case001	Anagnostou, NatCan 2020	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	3.0	1	1.0	Yes	high	TMB-high irGS	338.0	2.530199698203082	1
+Case002	Anagnostou, NatCan 2020	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	3.0	0	0.0	No	low	TMB-low non-irGS	33.0	1.5314789170422551	1
+Case003	Anagnostou, NatCan 2020	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	38.0	0	0.0	No	low	TMB-low non-irGS	2.0	0.4771212547196624	1
+Case004	Anagnostou, NatCan 2020	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	2.0	1	1.0	Yes	high	TMB-high irGS	313.0	2.496929648073215	1
+Case005	Anagnostou, NatCan 2020	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	2.0	1	1.0	Yes	high	TMB-high irGS	1207.0	3.082066934285113	1
+Case006	Anagnostou, NatCan 2020	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	16.0	1	1.0	Yes	high	TMB-high irGS	285.0	2.456366033129043	1
+Case007	Anagnostou, NatCan 2020	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	11.0	1	1.0	Yes	high	TMB-high irGS	186.0	2.271841606536499	1
+Case008	Anagnostou, NatCan 2020	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	9.0	1	0.0	Yes	low	TMB-low irGS	159.0	2.204119982655925	1
+Case009	Anagnostou, NatCan 2020	1.0	80-	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	13.0	1	1.0	Yes	high	TMB-high irGS	395.0	2.597695185925512	1
+Case010	Anagnostou, NatCan 2020	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	39.0	1	0.0	Yes	low	TMB-low irGS	115.0	2.0644579892269186	1
+Case011	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	7.0	1	0.0	Yes	low	TMB-low irGS	145.0	2.164352855784437	1
+Case012	Anagnostou, NatCan 2020	1.0	80-	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	13.0	0	0.0	No	low	TMB-low non-irGS	51.0	1.7160033436347992	1
+Case013	Anagnostou, NatCan 2020	0.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	9.0	0	0.0	No	low	TMB-low non-irGS	59.0	1.7781512503836436	1
+Case014	Anagnostou, NatCan 2020	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	5.0	0	0.0	No	low	TMB-low non-irGS	75.0	1.880813592280792	1
+Case015	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	57.0	0	0.0	No	low	TMB-low non-irGS	13.0	1.146128035678238	1
+Case016	Anagnostou, NatCan 2020	0.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	93.0	1	1.0	Yes	high	TMB-high irGS	313.0	2.496929648073215	1
+Case017	Anagnostou, NatCan 2020	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	6.0	0	0.0	No	low	TMB-low non-irGS	20.0	1.3222192947339193	1
+Case018	Anagnostou, NatCan 2020	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	13.0	0	0.0	No	low	TMB-low non-irGS	70.0	1.8512583487190752	1
+Case019	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	5.0	1	0.0	Yes	low	TMB-low irGS	141.0	2.1522883443830563	1
+Case020	Anagnostou, NatCan 2020	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	25.0	1	1.0	Yes	high	TMB-high irGS	262.0	2.419955748489758	1
+Case021	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	15.0	0	0.0	No	low	TMB-low non-irGS	17.0	1.255272505103306	1
+Case022	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	51.0	1	1.0	Yes	high	TMB-high irGS	395.0	2.597695185925512	1
+Case023	Anagnostou, NatCan 2020	0.0	40-50	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	9.0	0	0.0	No	low	TMB-low non-irGS	65.0	1.8195439355418688	1
+Case024	Anagnostou, NatCan 2020	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	17.0	1	0.0	Yes	low	TMB-low irGS	45.0	1.662757831681574	1
+Case025	Anagnostou, NatCan 2020	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	3.0	1	1.0	Yes	high	TMB-high irGS	219.0	2.342422680822206	1
+Case026	Anagnostou, NatCan 2020	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	46.0	1	1.0	Yes	high	TMB-high irGS	295.0	2.4712917110589387	1
+Case027	Anagnostou, NatCan 2020	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	3.0	1	1.0	Yes	high	TMB-high irGS	290.0	2.463892988985908	1
+Case028	Anagnostou, NatCan 2020	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	CTLA4+PD1	1.0	17.0	1	0.0	Yes	low	TMB-low irGS	97.0	1.9912260756924949	0
+Case029	Anagnostou, NatCan 2020	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	12.0	1	1.0	Yes	high	TMB-high irGS	431.0	2.635483746814912	1
+Case030	Anagnostou, NatCan 2020	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	27.0	1	0.0	Yes	low	TMB-low irGS	81.0	1.9138138523837167	1
+Case031	Anagnostou, NatCan 2020	0.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	9.0	1	0.0	Yes	low	TMB-low irGS	112.0	2.0530784434834195	1
+Case032	Anagnostou, NatCan 2020	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	13.0	1	1.0	Yes	high	TMB-high irGS	478.0	2.680335513414563	1
+Case033	Anagnostou, NatCan 2020	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	29.0	1	0.0	Yes	low	TMB-low irGS	109.0	2.041392685158225	1
+Case034	Anagnostou, NatCan 2020	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	14.0	1	0.0	Yes	low	TMB-low irGS	110.0	2.0453229787866576	1
+Case035	Anagnostou, NatCan 2020	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	14.0	1	0.0	Yes	low	TMB-low irGS	162.0	2.2121876044039577	1
+Case036	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	28.0	1	0.0	Yes	low	TMB-low irGS	164.0	2.2174839442139063	1
+Case037	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	3.0	1	0.0	Yes	low	TMB-low irGS	143.0	2.1583624920952498	1
+Case038	Anagnostou, NatCan 2020	0.0	40-50	Male	2_Lung	2_Lung	2_Lung	CTLA4+PD1	1.0	14.0	0	0.0	No	low	TMB-low non-irGS	155.0	2.1931245983544616	0
+Case039	Anagnostou, NatCan 2020	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	CTLA4+PD1	0.0	21.0	1	1.0	Yes	high	TMB-high irGS	487.0	2.6884198220027105	0
+Case040	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	43.0	0	0.0	No	low	TMB-low non-irGS	31.0	1.505149978319906	1
+Case041	Anagnostou, NatCan 2020	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	CTLA4+PD1	1.0	15.0	0	0.0	No	low	TMB-low non-irGS	57.0	1.7634279935629371	0
+Case042	Anagnostou, NatCan 2020	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	16.0	1	0.0	Yes	low	TMB-low irGS	44.0	1.6532125137753435	1
+Case043	Anagnostou, NatCan 2020	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	CTLA4+PD1	1.0	6.0	1	0.0	Yes	low	TMB-low irGS	167.0	2.225309281725863	0
+Case044	Anagnostou, NatCan 2020	1.0	80-	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	3.0	1	0.0	Yes	low	TMB-low irGS	81.0	1.9138138523837167	1
+Case045	Anagnostou, NatCan 2020	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1	1.0	5.0	0	0.0	No	low	TMB-low non-irGS	34.0	1.5440680443502757	1
+Case046	Anagnostou, NatCan 2020	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	13.0	1	1.0	Yes	high	TMB-high irGS	583.0	2.7664128471124	1
+Case047	Anagnostou, NatCan 2020	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	17.0	1	1.0	Yes	high	TMB-high irGS	175.0	2.24551266781415	1
+Case048	Anagnostou, NatCan 2020	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	3.0	0	0.0	No	low	TMB-low non-irGS	43.0	1.6434526764861874	1
+Case049	Anagnostou, NatCan 2020	0.0	40-50	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	18.0	0	0.0	No	low	TMB-low non-irGS	48.0	1.6901960800285136	1
+Case050	Anagnostou, NatCan 2020	0.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	13.0	1	0.0	Yes	low	TMB-low irGS	89.0	1.954242509439325	1
+Case051	Anagnostou, NatCan 2020	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1	1.0	3.0	0	0.0	No	low	TMB-low non-irGS	10.0	1.0413926851582251	1
+Case052	Anagnostou, NatCan 2020	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1	0.0	22.0	0	0.0	No	low	TMB-low non-irGS	32.0	1.5185139398778875	1
+Case053	Anagnostou, NatCan 2020	1.0	80-	Female	2_Lung	2_Lung	2_Lung	PD1	0.0	8.0	1	1.0	Yes	high	TMB-high irGS	388.0	2.589949601325708	1
+Case054	Anagnostou, NatCan 2020	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	CTLA4+PD1	1.0	10.0	1	1.0	Yes	high	TMB-high irGS	206.0	2.315970345456918	0
+Case055	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	21.93333333	1	1.0	Yes	high	TMB-high irGS	3162.0	3.500099191915723	1
+Case056	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	23.93333333	0	0.0	No	low	TMB-low non-irGS	26.0	1.4313637641589874	1
+Case057	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	2.466666667	0	0.0	No	low	TMB-low non-irGS	13.0	1.146128035678238	1
+Case058	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	6.766666667	1	0.0	Yes	low	TMB-low irGS	100.0	2.004321373782642	1
+Case059	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	4.333333333	1	1.0	Yes	high	TMB-high irGS	242.0	2.385606273598312	1
+Case060	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	19.06666667	1	1.0	Yes	high	TMB-high irGS	239.0	2.380211241711606	1
+Case061	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	24.93333333	1	0.0	Yes	low	TMB-low irGS	120.0	2.0827853703164503	1
+Case062	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	15.86666667	1	1.0	Yes	high	TMB-high irGS	191.0	2.2833012287035497	1
+Case063	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	12.66666667	1	1.0	Yes	high	TMB-high irGS	450.0	2.6541765418779604	1
+Case064	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	17.1	1	1.0	Yes	high	TMB-high irGS	1500.0	3.1763806922432702	1
+Case065	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	21.96666667	1	1.0	Yes	high	TMB-high irGS	430.0	2.6344772701607315	1
+Case066	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	32.1	1	1.0	Yes	high	TMB-high irGS	496.0	2.696356388733332	1
+Case067	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	27.3	1	1.0	Yes	high	TMB-high irGS	1293.0	3.1119342763326814	1
+Case068	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	13.06666667	1	1.0	Yes	high	TMB-high irGS	414.0	2.6180480967120925	1
+Case069	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	32.5	1	0.0	Yes	low	TMB-low irGS	84.0	1.9294189257142929	1
+Case070	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	31.23333333	1	1.0	Yes	high	TMB-high irGS	571.0	2.7573960287930244	1
+Case071	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	1.766666667	0	0.0	No	low	TMB-low non-irGS	15.0	1.2041199826559248	1
+Case072	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	51.56666667	1	1.0	Yes	high	TMB-high irGS	801.0	2.9041743682841634	1
+Case073	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	50.1	1	1.0	Yes	high	TMB-high irGS	317.0	2.502427119984433	1
+Case074	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	4.533333333	0	0.0	No	low	TMB-low non-irGS	76.0	1.8864907251724816	1
+Case075	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	29.7	1	1.0	Yes	high	TMB-high irGS	521.0	2.717670503002262	1
+Case076	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	11.86666667	0	0.0	No	low	TMB-low non-irGS	24.0	1.3979400086720375	1
+Case077	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	33.5	1	0.0	Yes	low	TMB-low irGS	145.0	2.164352855784437	1
+Case078	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	9.066666667	1	1.0	Yes	high	TMB-high irGS	528.0	2.7234556720351857	1
+Case079	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	5.566666667	0	0.0	No	low	TMB-low non-irGS	34.0	1.5440680443502757	1
+Case080	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	11.56666667	0	0.0	No	low	TMB-low non-irGS	47.0	1.6812412373755872	1
+Case081	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	21.0	1	1.0	Yes	high	TMB-high irGS	255.0	2.4082399653118496	1
+Case082	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	6.833333333	0	0.0	No	low	TMB-low non-irGS	3.0	0.6020599913279624	1
+Case083	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	30.7	1	1.0	Yes	high	TMB-high irGS	667.0	2.824776462475546	1
+Case084	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	17.36666667	1	1.0	Yes	high	TMB-high irGS	191.0	2.2833012287035497	1
+Case085	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	3.933333333	1	0.0	Yes	low	TMB-low irGS	92.0	1.968482948553935	1
+Case086	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	32.6	1	0.0	Yes	low	TMB-low irGS	36.0	1.568201724066995	1
+Case087	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	33.06666667	1	1.0	Yes	high	TMB-high irGS	461.0	2.6646419755561257	1
+Case088	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	27.76666667	1	1.0	Yes	high	TMB-high irGS	237.0	2.376576957056512	1
+Case089	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	12.33333333	1	1.0	Yes	high	TMB-high irGS	257.0	2.41161970596323	1
+Case090	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	19.66666667	1	1.0	Yes	high	TMB-high irGS	225.0	2.3541084391474008	1
+Case091	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	20.93333333	1	1.0	Yes	high	TMB-high irGS	287.0	2.459392487759231	1
+Case092	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	23.26666667	1	1.0	Yes	high	TMB-high irGS	438.0	2.6424645202421213	1
+Case093	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	6.2	0	0.0	No	low	TMB-low non-irGS	33.0	1.5314789170422551	1
+Case094	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	18.1	1	1.0	Yes	high	TMB-high irGS	1031.0	3.013679697291193	1
+Case095	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	11.7	1	1.0	Yes	high	TMB-high irGS	1598.0	3.2038484637462346	1
+Case096	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	33.2	1	0.0	Yes	low	TMB-low irGS	36.0	1.568201724066995	1
+Case097	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	22.06666667	1	1.0	Yes	high	TMB-high irGS	625.0	2.7965743332104296	1
+Case098	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	27.76666667	1	1.0	Yes	high	TMB-high irGS	220.0	2.3443922736851106	1
+Case099	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	20.4	1	1.0	Yes	high	TMB-high irGS	283.0	2.453318340047037	1
+Case100	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	32.0	1	1.0	Yes	high	TMB-high irGS	396.0	2.598790506763115	1
+Case101	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	26.4	1	1.0	Yes	high	TMB-high irGS	256.0	2.4099331233312946	1
+Case102	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	21.16666667	0	0.0	No	low	TMB-low non-irGS	11.0	1.0791812460476249	1
+Case103	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	15.83333333	1	1.0	Yes	high	TMB-high irGS	194.0	2.290034611362518	1
+Case104	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	2.9	1	0.0	Yes	low	TMB-low irGS	135.0	2.133538908370217	1
+Case105	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	4.766666667	1	1.0	Yes	high	TMB-high irGS	317.0	2.502427119984433	1
+Case106	Liu, NatMed 2019			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	2.5	1	1.0	Yes	high	TMB-high irGS	483.0	2.6848453616444123	1
+Case107	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	29.16666667	1	0.0	Yes	low	TMB-low irGS	49.0	1.6989700043360187	1
+Case108	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	17.36666667	1	0.0	Yes	low	TMB-low irGS	91.0	1.963787827345556	1
+Case109	Liu, NatMed 2019			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	26.0	1	1.0	Yes	high	TMB-high irGS	174.0	2.2430380486862944	1
+Case110	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	12.41889117	1	1.0	Yes	high	TMB-high irGS	180.0	2.257678574869185	1
+Case111	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	17.28131417	1	0.0	Yes	low	TMB-low irGS	148.0	2.173186268412274	1
+Case112	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.825462012	0	0.0	No	low	TMB-low non-irGS	20.0	1.3222192947339193	1
+Case113	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	14.98151951	1	0.0	Yes	low	TMB-low irGS	103.0	2.0170333392987803	1
+Case114	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.613963039	1	0.0	Yes	low	TMB-low irGS	108.0	2.037426497940624	1
+Case115	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.73100616	1	0.0	Yes	low	TMB-low irGS	59.0	1.7781512503836436	1
+Case116	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	15.6386037	1	1.0	Yes	high	TMB-high irGS	568.0	2.755112266395072	1
+Case117	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.661190965	1	0.0	Yes	low	TMB-low irGS	71.0	1.8573324964312683	1
+Case118	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	1.018480493	1	0.0	Yes	low	TMB-low irGS	104.0	2.0211892990699383	1
+Case119	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	18.72689938	1	0.0	Yes	low	TMB-low irGS	74.0	1.8750612633917	1
+Case120	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.05954825	1	1.0	Yes	high	TMB-high irGS	271.0	2.4345689040341987	1
+Case121	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.56673511	1	0.0	Yes	low	TMB-low irGS	125.0	2.100370545117563	1
+Case122	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.876796715	0	0.0	No	low	TMB-low non-irGS	99.0	2.0	1
+Case123	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	10.41478439	1	1.0	Yes	high	TMB-high irGS	451.0	2.655138434811382	1
+Case124	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	5.519507187	1	1.0	Yes	high	TMB-high irGS	203.0	2.3096301674258988	1
+Case125	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	6.965092402	1	0.0	Yes	low	TMB-low irGS	114.0	2.060697840353612	1
+Case126	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.121149897	0	0.0	No	low	TMB-low non-irGS	32.0	1.5185139398778875	1
+Case127	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	18.85831622	1	0.0	Yes	low	TMB-low irGS	152.0	2.184691430817599	1
+Case128	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.449691992	1	1.0	Yes	high	TMB-high irGS	191.0	2.2833012287035497	1
+Case129	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.848049281	0	0.0	No	low	TMB-low non-irGS	57.0	1.7634279935629371	1
+Case130	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.04106776	1	1.0	Yes	high	TMB-high irGS	494.0	2.694605198933569	1
+Case131	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	7.063655031	1	0.0	Yes	low	TMB-low irGS	150.0	2.1789769472931693	1
+Case132	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	6.242299795	1	1.0	Yes	high	TMB-high irGS	269.0	2.431363764158988	1
+Case133	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.50102669	1	1.0	Yes	high	TMB-high irGS	357.0	2.5538830266438746	1
+Case134	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.168377823	1	1.0	Yes	high	TMB-high irGS	185.0	2.2695129442179165	1
+Case135	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	12.81314168	1	0.0	Yes	low	TMB-low irGS	162.0	2.2121876044039577	1
+Case136	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	0.854209446	0	0.0	No	low	TMB-low non-irGS	69.0	1.845098040014257	1
+Case137	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	11.26899384	0	0.0	No	low	TMB-low non-irGS	86.0	1.9395192526186185	1
+Case138	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.482546201	1	0.0	Yes	low	TMB-low irGS	141.0	2.1522883443830563	1
+Case139	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	1.18275154	0	0.0	No	low	TMB-low non-irGS	46.0	1.6720978579357175	1
+Case140	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.25667351	1	1.0	Yes	high	TMB-high irGS	579.0	2.7634279935629373	1
+Case141	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.102669405	1	1.0	Yes	high	TMB-high irGS	188.0	2.2764618041732443	1
+Case142	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.431211499	0	0.0	No	low	TMB-low non-irGS	100.0	2.004321373782642	1
+Case143	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.56673511	1	1.0	Yes	high	TMB-high irGS	229.0	2.361727836017593	1
+Case144	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	7.392197125	1	0.0	Yes	low	TMB-low irGS	136.0	2.1367205671564067	1
+Case145	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	1.80698152	0	0.0	No	low	TMB-low non-irGS	95.0	1.9822712330395684	1
+Case146	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	14.12731006	0	0.0	No	low	TMB-low non-irGS	31.0	1.505149978319906	1
+Case147	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	18.89117043	1	1.0	Yes	high	TMB-high irGS	220.0	2.3443922736851106	1
+Case148	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.519507187	1	0.0	Yes	low	TMB-low irGS	55.0	1.7481880270062005	1
+Case149	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.613963039	1	0.0	Yes	low	TMB-low irGS	46.0	1.6720978579357175	1
+Case150	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.880903491	1	1.0	Yes	high	TMB-high irGS	251.0	2.401400540781544	1
+Case151	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.388090349	0	0.0	No	low	TMB-low non-irGS	122.0	2.089905111439398	1
+Case152	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.82956879	1	1.0	Yes	high	TMB-high irGS	282.0	2.45178643552429	1
+Case153	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.880903491	1	0.0	Yes	low	TMB-low irGS	66.0	1.8260748027008264	1
+Case154	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.628336756	1	0.0	Yes	low	TMB-low irGS	163.0	2.214843848047698	1
+Case155	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	9.889117043	0	0.0	No	low	TMB-low non-irGS	75.0	1.880813592280792	1
+Case156	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	9.856262834	1	0.0	Yes	low	TMB-low irGS	43.0	1.6434526764861874	1
+Case157	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.61806982	1	1.0	Yes	high	TMB-high irGS	190.0	2.281033367247728	1
+Case158	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.63244353	1	1.0	Yes	high	TMB-high irGS	223.0	2.3502480183341627	1
+Case159	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.00821355	1	1.0	Yes	high	TMB-high irGS	262.0	2.419955748489758	1
+Case160	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	17.21560575	1	1.0	Yes	high	TMB-high irGS	674.0	2.829303772831025	1
+Case161	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	6.275154004	1	1.0	Yes	high	TMB-high irGS	174.0	2.2430380486862944	1
+Case162	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	14.75154004	1	0.0	Yes	low	TMB-low irGS	97.0	1.9912260756924949	1
+Case163	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	15.6386037	1	0.0	Yes	low	TMB-low irGS	73.0	1.869231719730976	1
+Case164	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	4.369609856	1	1.0	Yes	high	TMB-high irGS	179.0	2.255272505103306	1
+Case165	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	6.012320329	1	0.0	Yes	low	TMB-low irGS	121.0	2.0863598306747484	1
+Case166	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	17.11704312	1	1.0	Yes	high	TMB-high irGS	481.0	2.6830470382388496	1
+Case167	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.683778234	1	0.0	Yes	low	TMB-low irGS	91.0	1.963787827345556	1
+Case168	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	13.40451745	1	1.0	Yes	high	TMB-high irGS	477.0	2.6794278966121188	1
+Case169	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.628336756	1	1.0	Yes	high	TMB-high irGS	262.0	2.419955748489758	1
+Case170	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	14.75154004	1	0.0	Yes	low	TMB-low irGS	123.0	2.093421685162235	1
+Case171	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	16.85420945	1	1.0	Yes	high	TMB-high irGS	216.0	2.3364597338485296	1
+Case172	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.515400411	1	0.0	Yes	low	TMB-low irGS	67.0	1.8325089127062364	1
+Case173	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	16.59137577	1	1.0	Yes	high	TMB-high irGS	503.0	2.702430536445525	1
+Case174	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	16.59137577	1	1.0	Yes	high	TMB-high irGS	279.0	2.4471580313422194	1
+Case175	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	1.971252567	1	0.0	Yes	low	TMB-low irGS	54.0	1.740362689494244	1
+Case176	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	16.26283368	1	0.0	Yes	low	TMB-low irGS	125.0	2.100370545117563	1
+Case177	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	15.70431211	1	1.0	Yes	high	TMB-high irGS	356.0	2.552668216112193	1
+Case178	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	1.80698152	0	0.0	No	low	TMB-low non-irGS	42.0	1.6334684555795864	1
+Case179	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	15.83572895	1	0.0	Yes	low	TMB-low irGS	154.0	2.1903316981702914	1
+Case180	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	16.82135524	1	1.0	Yes	high	TMB-high irGS	606.0	2.783188691075257	1
+Case181	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	18.1026694	1	1.0	Yes	high	TMB-high irGS	569.0	2.7558748556724915	1
+Case182	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	8.016427105	1	0.0	Yes	low	TMB-low irGS	55.0	1.7481880270062005	1
+Case183	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	16.45995893	1	0.0	Yes	low	TMB-low irGS	36.0	1.568201724066995	1
+Case184	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	18.72689938	1	0.0	Yes	low	TMB-low irGS	60.0	1.7853298350107671	1
+Case185	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	19.28542094	1	1.0	Yes	high	TMB-high irGS	198.0	2.298853076409707	1
+Case186	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.891170431	1	0.0	Yes	low	TMB-low irGS	126.0	2.103803720955957	1
+Case187	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	9.757700205	0	0.0	No	low	TMB-low non-irGS	18.0	1.2787536009528289	1
+Case188	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	19.35112936	1	1.0	Yes	high	TMB-high irGS	375.0	2.575187844927661	1
+Case189	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	15.3100616	0	0.0	No	low	TMB-low non-irGS	36.0	1.568201724066995	1
+Case190	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	4.533880903	1	1.0	Yes	high	TMB-high irGS	291.0	2.4653828514484184	1
+Case191	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	4.895277207	1	0.0	Yes	low	TMB-low irGS	141.0	2.1522883443830563	1
+Case192	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.102669405	1	0.0	Yes	low	TMB-low irGS	168.0	2.227886704613673	1
+Case193	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	17.28131417	1	1.0	Yes	high	TMB-high irGS	209.0	2.322219294733919	1
+Case194	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	18.62833676	1	0.0	Yes	low	TMB-low irGS	125.0	2.100370545117563	1
+Case195	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	19.28542094	1	0.0	Yes	low	TMB-low irGS	75.0	1.880813592280792	1
+Case196	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	15.86858316	0	0.0	No	low	TMB-low non-irGS	60.0	1.7853298350107671	1
+Case197	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	1.675564682	1	0.0	Yes	low	TMB-low irGS	102.0	2.012837224705172	1
+Case198	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.759753593	0	0.0	No	low	TMB-low non-irGS	47.0	1.6812412373755872	1
+Case199	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	8.90349076	1	1.0	Yes	high	TMB-high irGS	418.0	2.622214022966295	1
+Case200	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	18.56262834	1	1.0	Yes	high	TMB-high irGS	186.0	2.271841606536499	1
+Case201	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	8.082135524	1	0.0	Yes	low	TMB-low irGS	86.0	1.9395192526186185	1
+Case202	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	10.11909651	0	0.0	No	low	TMB-low non-irGS	19.0	1.3010299956639813	1
+Case203	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	12.84599589	1	1.0	Yes	high	TMB-high irGS	282.0	2.45178643552429	1
+Case204	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	13.33880903	1	0.0	Yes	low	TMB-low irGS	52.0	1.724275869600789	1
+Case205	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	19.1211499	1	1.0	Yes	high	TMB-high irGS	312.0	2.4955443375464483	1
+Case206	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	20.76386037	1	0.0	Yes	low	TMB-low irGS	92.0	1.968482948553935	1
+Case207	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.58521561	1	0.0	Yes	low	TMB-low irGS	96.0	1.9867717342662448	1
+Case208	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.54825462	1	0.0	Yes	low	TMB-low irGS	93.0	1.9731278535996983	1
+Case209	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.42094456	1	1.0	Yes	high	TMB-high irGS	806.0	2.90687353472207	1
+Case210	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	9.560574949	1	0.0	Yes	low	TMB-low irGS	103.0	2.0170333392987803	1
+Case211	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	10.54620123	1	0.0	Yes	low	TMB-low irGS	79.0	1.9030899869919435	1
+Case212	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.069815195	1	0.0	Yes	low	TMB-low irGS	62.0	1.7993405494535817	1
+Case213	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.54825462	1	0.0	Yes	low	TMB-low irGS	37.0	1.57978359661681	1
+Case214	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	9.49486653	1	0.0	Yes	low	TMB-low irGS	97.0	1.9912260756924949	1
+Case215	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	22.73511294	1	0.0	Yes	low	TMB-low irGS	161.0	2.2095150145426308	1
+Case216	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.121149897	1	0.0	Yes	low	TMB-low irGS	83.0	1.9242792860618816	1
+Case217	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	16.45995893	1	1.0	Yes	high	TMB-high irGS	194.0	2.290034611362518	1
+Case218	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	17.01848049	1	1.0	Yes	high	TMB-high irGS	449.0	2.6532125137753435	1
+Case219	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.135523614	0	0.0	No	low	TMB-low non-irGS	50.0	1.7075701760979365	1
+Case220	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	10.57905544	1	1.0	Yes	high	TMB-high irGS	238.0	2.378397900948137	1
+Case221	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	12.71457906	1	1.0	Yes	high	TMB-high irGS	348.0	2.54282542695918	1
+Case222	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	14.75154004	1	0.0	Yes	low	TMB-low irGS	111.0	2.049218022670181	1
+Case223	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.19096509	1	0.0	Yes	low	TMB-low irGS	143.0	2.1583624920952498	1
+Case224	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.388090349	1	0.0	Yes	low	TMB-low irGS	48.0	1.6901960800285136	1
+Case225	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	22.37371663	1	0.0	Yes	low	TMB-low irGS	142.0	2.155336037465062	1
+Case226	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	10.48049281	0	1.0	No	high	TMB-high non-irGS	208.0	2.3201462861110542	1
+Case227	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.562628337	1	0.0	Yes	low	TMB-low irGS	117.0	2.071882007306125	1
+Case228	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	4.271047228	1	1.0	Yes	high	TMB-high irGS	352.0	2.5477747053878224	1
+Case229	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	7.885010267	0	0.0	No	low	TMB-low non-irGS	76.0	1.8864907251724816	1
+Case230	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	22.07802875	1	1.0	Yes	high	TMB-high irGS	282.0	2.45178643552429	1
+Case231	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	4.501026694	1	0.0	Yes	low	TMB-low irGS	52.0	1.724275869600789	1
+Case232	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	15.44147844	1	1.0	Yes	high	TMB-high irGS	273.0	2.437750562820388	1
+Case233	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.58521561	1	1.0	Yes	high	TMB-high irGS	279.0	2.4471580313422194	1
+Case234	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	0.197125257	1	1.0	Yes	high	TMB-high irGS	262.0	2.419955748489758	1
+Case235	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.38809035	1	0.0	Yes	low	TMB-low irGS	68.0	1.8388490907372552	1
+Case236	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.42094456	1	0.0	Yes	low	TMB-low irGS	62.0	1.7993405494535817	1
+Case237	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.858316222	0	0.0	No	low	TMB-low non-irGS	15.0	1.2041199826559248	1
+Case238	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.388090349	0	0.0	No	low	TMB-low non-irGS	18.0	1.2787536009528289	1
+Case239	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	11.92607803	1	0.0	Yes	low	TMB-low irGS	57.0	1.7634279935629371	1
+Case240	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	1.117043121	0	0.0	No	low	TMB-low non-irGS	83.0	1.9242792860618816	1
+Case241	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	6.702258727	1	1.0	Yes	high	TMB-high irGS	182.0	2.2624510897304293	1
+Case242	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	7.852156057	0	0.0	No	low	TMB-low non-irGS	47.0	1.6812412373755872	1
+Case243	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.94661191	1	1.0	Yes	high	TMB-high irGS	217.0	2.3384564936046046	1
+Case244	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	10.87474333	0	0.0	No	low	TMB-low non-irGS	25.0	1.414973347970818	1
+Case245	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.00821355	1	0.0	Yes	low	TMB-low irGS	173.0	2.2405492482826	1
+Case246	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.975359343	1	0.0	Yes	low	TMB-low irGS	162.0	2.2121876044039577	1
+Case247	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	9.002053388	1	0.0	Yes	low	TMB-low irGS	95.0	1.9822712330395684	1
+Case248	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	21.02669405	1	0.0	Yes	low	TMB-low irGS	58.0	1.7708520116421442	1
+Case249	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	10.34907598	1	0.0	Yes	low	TMB-low irGS	77.0	1.8920946026904804	1
+Case250	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.58521561	1	1.0	Yes	high	TMB-high irGS	1214.0	3.084576277934331	1
+Case251	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	22.50513347	1	0.0	Yes	low	TMB-low irGS	138.0	2.143014800254095	1
+Case252	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.56673511	1	0.0	Yes	low	TMB-low irGS	53.0	1.7323937598229686	1
+Case253	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.2238193	1	1.0	Yes	high	TMB-high irGS	246.0	2.392696953259666	1
+Case254	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.73100616	1	1.0	Yes	high	TMB-high irGS	609.0	2.785329835010767	1
+Case255	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.16221766	1	1.0	Yes	high	TMB-high irGS	722.0	2.859138297294531	1
+Case256	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	15.80287474	0	0.0	No	low	TMB-low non-irGS	88.0	1.9493900066449128	1
+Case257	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	8.016427105	1	0.0	Yes	low	TMB-low irGS	46.0	1.6720978579357175	1
+Case258	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.81930185	1	0.0	Yes	low	TMB-low irGS	72.0	1.863322860120456	1
+Case259	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	13.27310062	1	0.0	Yes	low	TMB-low irGS	42.0	1.6334684555795864	1
+Case260	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	7.326488706	1	1.0	Yes	high	TMB-high irGS	269.0	2.431363764158988	1
+Case261	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.32648871	1	0.0	Yes	low	TMB-low irGS	61.0	1.792391689498254	1
+Case262	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.52361396	0	0.0	No	low	TMB-low non-irGS	62.0	1.7993405494535817	1
+Case263	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	3.121149897	1	0.0	Yes	low	TMB-low irGS	127.0	2.1072099696478683	1
+Case264	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.135523614	1	0.0	Yes	low	TMB-low irGS	101.0	2.008600171761917	1
+Case265	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	8.246406571	1	0.0	Yes	low	TMB-low irGS	77.0	1.8920946026904804	1
+Case266	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.68788501	0	0.0	No	low	TMB-low non-irGS	76.0	1.8864907251724816	1
+Case267	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	7.457905544	1	0.0	Yes	low	TMB-low irGS	161.0	2.2095150145426308	1
+Case268	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	7.72073922	1	1.0	Yes	high	TMB-high irGS	259.0	2.4149733479708178	1
+Case269	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	1.412731006	1	0.0	Yes	low	TMB-low irGS	88.0	1.9493900066449128	1
+Case270	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	24.18069815	1	1.0	Yes	high	TMB-high irGS	229.0	2.361727836017593	1
+Case271	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	2.102669405	1	0.0	Yes	low	TMB-low irGS	80.0	1.9084850188786493	1
+Case272	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	15.37577002	1	0.0	Yes	low	TMB-low irGS	130.0	2.1172712956557644	1
+Case273	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.46817248	1	0.0	Yes	low	TMB-low irGS	118.0	2.0755469613925306	1
+Case274	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.45379877	1	1.0	Yes	high	TMB-high irGS	598.0	2.7774268223893115	1
+Case275	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.38809035	1	1.0	Yes	high	TMB-high irGS	539.0	2.7323937598229686	1
+Case276	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.059548255	1	1.0	Yes	high	TMB-high irGS	217.0	2.3384564936046046	1
+Case277	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	17.08418891	1	1.0	Yes	high	TMB-high irGS	548.0	2.739572344450092	1
+Case278	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	11.10472279	1	0.0	Yes	low	TMB-low irGS	82.0	1.919078092376074	1
+Case279	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	22.14373717	1	1.0	Yes	high	TMB-high irGS	327.0	2.515873843711679	1
+Case280	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	8.772073922	0	0.0	No	low	TMB-low non-irGS	42.0	1.6334684555795864	1
+Case281	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.650924025	1	0.0	Yes	low	TMB-low irGS	69.0	1.845098040014257	1
+Case282	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	6.899383984	1	1.0	Yes	high	TMB-high irGS	192.0	2.285557309007774	1
+Case283	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	7.622176591	1	0.0	Yes	low	TMB-low irGS	87.0	1.944482672150169	1
+Case284	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.32238193	1	0.0	Yes	low	TMB-low irGS	105.0	2.0253058652647704	1
+Case285	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	12.84599589	1	0.0	Yes	low	TMB-low irGS	98.0	1.99563519459755	1
+Case286	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.388090349	0	0.0	No	low	TMB-low non-irGS	27.0	1.4471580313422192	1
+Case287	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.234086242	0	0.0	No	low	TMB-low non-irGS	59.0	1.7781512503836436	1
+Case288	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.12936345	1	1.0	Yes	high	TMB-high irGS	193.0	2.287801729930226	1
+Case289	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	6.110882957	0	0.0	No	low	TMB-low non-irGS	31.0	1.505149978319906	1
+Case290	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.726899384	1	0.0	Yes	low	TMB-low irGS	100.0	2.004321373782642	1
+Case291	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	6.735112936	1	0.0	Yes	low	TMB-low irGS	128.0	2.110589710299249	1
+Case292	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.496919918	1	1.0	Yes	high	TMB-high irGS	697.0	2.843855422623161	1
+Case293	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	12.71457906	0	0.0	No	low	TMB-low non-irGS	19.0	1.3010299956639813	1
+Case294	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.26078029	1	0.0	Yes	low	TMB-low irGS	90.0	1.9590413923210936	1
+Case295	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.486652977	1	1.0	Yes	high	TMB-high irGS	193.0	2.287801729930226	1
+Case296	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	21.84804928	0	0.0	No	low	TMB-low non-irGS	42.0	1.6334684555795864	1
+Case297	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	2.759753593	1	0.0	Yes	low	TMB-low irGS	106.0	2.0293837776852097	1
+Case298	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	19.1211499	1	0.0	Yes	low	TMB-low irGS	81.0	1.9138138523837167	1
+Case299	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	5.716632444	0	0.0	No	low	TMB-low non-irGS	35.0	1.5563025007672873	1
+Case300	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	10.84188912	1	1.0	Yes	high	TMB-high irGS	188.0	2.2764618041732443	1
+Case301	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.22792608	1	0.0	Yes	low	TMB-low irGS	149.0	2.1760912590556813	1
+Case302	Mariathasan, Nature 2018			Female	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	20.27104723	1	1.0	Yes	high	TMB-high irGS	249.0	2.397940008672037	1
+Case303	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	7.950718686	1	0.0	Yes	low	TMB-low irGS	32.0	1.5185139398778875	1
+Case304	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	23.39219713	1	1.0	Yes	high	TMB-high irGS	174.0	2.2430380486862944	1
+Case305	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	1.0	8.837782341	0	0.0	No	low	TMB-low non-irGS	60.0	1.7853298350107671	1
+Case306	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	15.67145791	1	0.0	Yes	low	TMB-low irGS	123.0	2.093421685162235	1
+Case307	Mariathasan, Nature 2018			Male	3_Bladder	3_Bladder	3_Bladder	PDL1	0.0	14.12731006	0	0.0	No	low	TMB-low non-irGS	63.0	1.806179973983887	1
+Case308	Riaz, Cell 2017	1.0	80-	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	8.533333333	0	0.0	No	low	TMB-low non-irGS	46.0	1.6720978579357175	1
+Case309	Riaz, Cell 2017	0.0	60-70	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	21.200000000666662	1	1.0	Yes	high	TMB-high irGS	319.0	2.505149978319906	1
+Case310	Riaz, Cell 2017	0.0	60-70	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	27.90000000666667	1	0.0	Yes	low	TMB-low irGS	75.0	1.880813592280792	1
+Case311	Riaz, Cell 2017	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	9.333333333333334	1	0.0	Yes	low	TMB-low irGS	132.0	2.123851640967086	1
+Case312	Riaz, Cell 2017	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	35.76666666999999	1	0.0	Yes	low	TMB-low irGS	172.0	2.2380461031287955	1
+Case313	Riaz, Cell 2017	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	3.366666667	1	0.0	Yes	low	TMB-low irGS	61.0	1.792391689498254	1
+Case314	Riaz, Cell 2017	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	15.833333334	1	0.0	Yes	low	TMB-low irGS	150.0	2.1789769472931693	1
+Case315	Riaz, Cell 2017	1.0	70-80	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	24.66666666333333	0	0.0	No	low	TMB-low non-irGS	26.0	1.4313637641589874	1
+Case316	Riaz, Cell 2017	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	9.1	1	1.0	Yes	high	TMB-high irGS	304.0	2.484299839346786	1
+Case317	Riaz, Cell 2017	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	38.133333326666666	1	0.0	Yes	low	TMB-low irGS	137.0	2.1398790864012365	1
+Case318	Riaz, Cell 2017	1.0	80-	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	35.099999993333334	0	0.0	No	low	TMB-low non-irGS	39.0	1.6020599913279625	1
+Case319	Riaz, Cell 2017	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	32.033333336666665	1	1.0	Yes	high	TMB-high irGS	337.0	2.5289167002776547	1
+Case320	Riaz, Cell 2017	0.0	60-70	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	21.10000000033333	1	1.0	Yes	high	TMB-high irGS	223.0	2.3502480183341627	1
+Case321	Riaz, Cell 2017	0.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	36.433333323333336	1	1.0	Yes	high	TMB-high irGS	288.0	2.460897842756548	1
+Case322	Riaz, Cell 2017	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	23.59999999	1	1.0	Yes	high	TMB-high irGS	320.0	2.506505032404872	1
+Case323	Riaz, Cell 2017	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	7.399999998999999	0	0.0	No	low	TMB-low non-irGS	31.0	1.505149978319906	1
+Case324	Riaz, Cell 2017	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	32.699999989999995	1	1.0	Yes	high	TMB-high irGS	317.0	2.502427119984433	1
+Case325	Riaz, Cell 2017	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	3.066666666	1	1.0	Yes	high	TMB-high irGS	320.0	2.506505032404872	1
+Case326	Riaz, Cell 2017	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	32.46666665666666	1	1.0	Yes	high	TMB-high irGS	531.0	2.7259116322950483	1
+Case327	Riaz, Cell 2017	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	5.033333333	0	0.0	No	low	TMB-low non-irGS	8.0	0.9542425094393248	1
+Case328	Riaz, Cell 2017	0.0	30-40	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	8.633333333333333	1	0.0	Yes	low	TMB-low irGS	66.0	1.8260748027008264	1
+Case329	Riaz, Cell 2017	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	28.13333334	1	0.0	Yes	low	TMB-low irGS	157.0	2.198657086954422	1
+Case330	Riaz, Cell 2017	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	25.666666666666668	1	1.0	Yes	high	TMB-high irGS	336.0	2.5276299008713385	1
+Case331	Riaz, Cell 2017	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	8.199999999333333	0	0.0	No	low	TMB-low non-irGS	1.0	0.3010299956639812	1
+Case332	Riaz, Cell 2017	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	38.29999999	1	1.0	Yes	high	TMB-high irGS	1172.0	3.0692980121155293	1
+Case333	Riaz, Cell 2017	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	18.066666667	1	0.0	Yes	low	TMB-low irGS	92.0	1.968482948553935	1
+Case334	Riaz, Cell 2017	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1	0.0	24.59999999333333	1	1.0	Yes	high	TMB-high irGS	636.0	2.8041394323353503	1
+Case335	Riaz, Cell 2017	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1	1.0	15.700000001	0	0.0	No	low	TMB-low non-irGS	31.0	1.505149978319906	1
+Case336	Snyder, PlosMed 2017	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	24.133333333333333	0	0.0	No	low	TMB-low non-irGS	66.0	1.8260748027008264	1
+Case337	Snyder, PlosMed 2017	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	6.066666666666666	1	1.0	Yes	high	TMB-high irGS	174.0	2.2430380486862944	1
+Case338	Snyder, PlosMed 2017	1.0	80-	Female	3_Bladder	3_Bladder	5_Others	PDL1	1.0	13.433333333333334	0	0.0	No	low	TMB-low non-irGS	56.0	1.7558748556724917	1
+Case339	Snyder, PlosMed 2017	0.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	21.0	1	1.0	Yes	high	TMB-high irGS	633.0	2.802089257881733	1
+Case340	Snyder, PlosMed 2017	0.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	23.4	1	0.0	Yes	low	TMB-low irGS	121.0	2.0863598306747484	1
+Case341	Snyder, PlosMed 2017	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	21.7	1	1.0	Yes	high	TMB-high irGS	200.0	2.303196057420489	1
+Case342	Snyder, PlosMed 2017	0.0	50-60	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	19.53333333333333	1	1.0	Yes	high	TMB-high irGS	386.0	2.5877109650189114	1
+Case343	Snyder, PlosMed 2017	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	1.4666666666666666	1	1.0	Yes	high	TMB-high irGS	359.0	2.556302500767288	1
+Case344	Snyder, PlosMed 2017	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	20.966666666666665	0	0.0	No	low	TMB-low non-irGS	36.0	1.568201724066995	1
+Case345	Snyder, PlosMed 2017	1.0	60-70	Female	3_Bladder	3_Bladder	5_Others	PDL1	1.0	3.9	0	0.0	No	low	TMB-low non-irGS	57.0	1.7634279935629371	1
+Case346	Snyder, PlosMed 2017	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	23.33333333333333	1	1.0	Yes	high	TMB-high irGS	226.0	2.3560258571931225	1
+Case347	Snyder, PlosMed 2017	0.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	8.866666666666667	0	0.0	No	low	TMB-low non-irGS	48.0	1.6901960800285136	1
+Case348	Snyder, PlosMed 2017	0.0	50-60	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	21.73333333333333	0	0.0	No	low	TMB-low non-irGS	38.0	1.591064607026499	1
+Case349	Snyder, PlosMed 2017	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	5.433333333333334	0	0.0	No	low	TMB-low non-irGS	37.0	1.57978359661681	1
+Case350	Snyder, PlosMed 2017	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	21.7	1	1.0	Yes	high	TMB-high irGS	441.0	2.645422269349092	1
+Case351	Snyder, PlosMed 2017	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	11.8	1	0.0	Yes	low	TMB-low irGS	95.0	1.9822712330395684	1
+Case352	Snyder, PlosMed 2017	0.0	50-60	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	18.2	0	0.0	No	low	TMB-low non-irGS	67.0	1.8325089127062364	1
+Case353	Snyder, PlosMed 2017	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	11.033333333333331	1	1.0	Yes	high	TMB-high irGS	284.0	2.45484486000851	1
+Case354	Snyder, PlosMed 2017	0.0	40-50	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	2.533333333333333	1	0.0	Yes	low	TMB-low irGS	138.0	2.143014800254095	1
+Case355	Snyder, PlosMed 2017	0.0	50-60	Male	3_Bladder	3_Bladder	5_Others	PDL1	0.0	20.33333333333333	1	1.0	Yes	high	TMB-high irGS	675.0	2.829946695941636	1
+Case356	Snyder, PlosMed 2017	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	10.966666666666669	1	1.0	Yes	high	TMB-high irGS	210.0	2.3242824552976926	1
+Case357	Snyder, PlosMed 2017	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PDL1	1.0	15.6	1	1.0	Yes	high	TMB-high irGS	270.0	2.432969290874406	1
+Case358	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	7.99	1	0.0	Yes	low	TMB-low irGS	127.0	2.1072099696478683	1
+Case359	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	34.44	1	0.0	Yes	low	TMB-low irGS	130.0	2.1172712956557644	1
+Case360	cBioPortal, mixed_allen_2018	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	8.22	0	0.0	No	low	TMB-low non-irGS	21.0	1.3424226808222062	1
+Case361	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	25.99	1	1.0	Yes	high	TMB-high irGS	1816.0	3.2593549273080344	1
+Case362	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	10.53	1	1.0	Yes	high	TMB-high irGS	5912.0	3.771807878999106	1
+Case363	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	40.82	1	1.0	Yes	high	TMB-high irGS	196.0	2.294466226161593	1
+Case364	cBioPortal, mixed_allen_2018	1.0	80-	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	20.33	1	1.0	Yes	high	TMB-high irGS	1239.0	3.093421685162235	1
+Case365	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	9.9	1	1.0	Yes	high	TMB-high irGS	277.0	2.444044795918076	1
+Case366	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.77	0	0.0	No	low	TMB-low non-irGS	70.0	1.8512583487190752	1
+Case367	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	30.07	1	1.0	Yes	high	TMB-high irGS	627.0	2.797959643737196	1
+Case368	cBioPortal, mixed_allen_2018	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	10.3	1	0.0	Yes	low	TMB-low irGS	108.0	2.037426497940624	1
+Case369	cBioPortal, mixed_allen_2018	0.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	26.58	1	1.0	Yes	high	TMB-high irGS	281.0	2.450249108319361	1
+Case370	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	9.54	1	0.0	Yes	low	TMB-low irGS	90.0	1.9590413923210936	1
+Case371	cBioPortal, mixed_allen_2018	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	7.8	0	0.0	No	low	TMB-low non-irGS	36.0	1.568201724066995	1
+Case372	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.01	0	0.0	No	low	TMB-low non-irGS	105.0	2.0253058652647704	1
+Case373	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.8	1	1.0	Yes	high	TMB-high irGS	355.0	2.5514499979728757	1
+Case374	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	21.09	1	1.0	Yes	high	TMB-high irGS	381.0	2.582063362911709	1
+Case375	cBioPortal, mixed_allen_2018	0.0	-30	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	10.92	1	0.0	Yes	low	TMB-low irGS	106.0	2.0293837776852097	1
+Case376	cBioPortal, mixed_allen_2018	0.0	-30	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	3.72	0	0.0	No	low	TMB-low non-irGS	72.0	1.863322860120456	1
+Case377	cBioPortal, mixed_allen_2018	0.0	-30	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	17.73	1	0.0	Yes	low	TMB-low irGS	104.0	2.0211892990699383	1
+Case378	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	25.21	1	1.0	Yes	high	TMB-high irGS	1029.0	3.012837224705172	1
+Case379	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	35.46	1	1.0	Yes	high	TMB-high irGS	468.0	2.671172842715084	1
+Case380	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	39.62	1	0.0	Yes	low	TMB-low irGS	164.0	2.2174839442139063	1
+Case381	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	32.42	1	1.0	Yes	high	TMB-high irGS	379.0	2.57978359661681	1
+Case382	cBioPortal, mixed_allen_2018	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	6.28	0	0.0	No	low	TMB-low non-irGS	38.0	1.591064607026499	1
+Case383	cBioPortal, mixed_allen_2018	0.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	3.49	1	0.0	Yes	low	TMB-low irGS	70.0	1.8512583487190752	1
+Case384	cBioPortal, mixed_allen_2018	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	8.09	1	1.0	Yes	high	TMB-high irGS	266.0	2.4265112613645754	1
+Case385	cBioPortal, mixed_allen_2018	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	28.06	1	1.0	Yes	high	TMB-high irGS	471.0	2.673941998634088	1
+Case386	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	34.47	1	1.0	Yes	high	TMB-high irGS	694.0	2.8419848045901137	1
+Case387	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	9.47	0	0.0	No	low	TMB-low non-irGS	61.0	1.792391689498254	1
+Case388	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	11.84	1	1.0	Yes	high	TMB-high irGS	496.0	2.696356388733332	1
+Case389	cBioPortal, mixed_allen_2018			Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	3.91	1	0.0	Yes	low	TMB-low irGS	128.0	2.110589710299249	1
+Case390	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	3.91	0	0.0	No	low	TMB-low non-irGS	70.0	1.8512583487190752	1
+Case391	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	58.59	0	1.0	No	high	TMB-high non-irGS	180.0	2.257678574869185	1
+Case392	cBioPortal, mixed_allen_2018	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	3.29	0	0.0	No	low	TMB-low non-irGS	85.0	1.934498451243568	1
+Case393	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	13.59	1	1.0	Yes	high	TMB-high irGS	291.0	2.4653828514484184	1
+Case394	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	10.72	0	0.0	No	low	TMB-low non-irGS	103.0	2.0170333392987803	1
+Case395	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	6.74	0	0.0	No	low	TMB-low non-irGS	167.0	2.225309281725863	1
+Case396	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	32.86	1	1.0	Yes	high	TMB-high irGS	341.0	2.534026106056135	1
+Case397	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	12.63	0	0.0	No	low	TMB-low non-irGS	103.0	2.0170333392987803	1
+Case398	cBioPortal, mixed_allen_2018			Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	5.79	1	1.0	Yes	high	TMB-high irGS	858.0	2.9339931638312424	1
+Case399	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1+CTLA4	1.0	1.28	1	1.0	Yes	high	TMB-high irGS	247.0	2.3944516808262164	0
+Case400	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	24.9	1	0.0	Yes	low	TMB-low irGS	162.0	2.2121876044039577	1
+Case401	cBioPortal, mixed_allen_2018			Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	26.91	0	0.0	No	low	TMB-low non-irGS	114.0	2.060697840353612	1
+Case402	cBioPortal, mixed_allen_2018			Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	15.53	1	1.0	Yes	high	TMB-high irGS	493.0	2.693726948923647	1
+Case403	cBioPortal, mixed_allen_2018	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	21.71	1	1.0	Yes	high	TMB-high irGS	1221.0	3.0870712059065357	1
+Case404	cBioPortal, mixed_allen_2018	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	14.61	1	1.0	Yes	high	TMB-high irGS	228.0	2.359835482339888	1
+Case405	cBioPortal, mixed_allen_2018	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	1.78	1	1.0	Yes	high	TMB-high irGS	206.0	2.315970345456918	1
+Case406	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1/PDL1+CTLA4	0.0	13.65	1	0.0	Yes	low	TMB-low irGS	52.0	1.724275869600789	0
+Case407	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	PD1/PDL1+CTLA4	0.0	19.21	1	0.0	Yes	low	TMB-low irGS	167.0	2.225309281725863	0
+Case408	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1/PDL1+CTLA4	0.0	26.12	1	1.0	Yes	high	TMB-high irGS	197.0	2.296665190261531	0
+Case409	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1/PDL1+CTLA4	0.0	14.7	1	1.0	Yes	high	TMB-high irGS	885.0	2.9474337218870508	0
+Case410	cBioPortal, mixed_allen_2018	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	53.68	1	1.0	Yes	high	TMB-high irGS	191.0	2.2833012287035497	1
+Case411	cBioPortal, mixed_allen_2018	0.0	60-70	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	3.29	0	1.0	No	high	TMB-high non-irGS	401.0	2.60422605308447	1
+Case412	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	32.47	1	1.0	Yes	high	TMB-high irGS	372.0	2.571708831808688	1
+Case413	cBioPortal, mixed_allen_2018	0.0	30-40	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	5.3	1	0.0	Yes	low	TMB-low irGS	136.0	2.1367205671564067	1
+Case414	cBioPortal, mixed_allen_2018	0.0	30-40	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	34.54	1	0.0	Yes	low	TMB-low irGS	156.0	2.1958996524092336	1
+Case415	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.61	1	1.0	Yes	high	TMB-high irGS	242.0	2.385606273598312	1
+Case416	cBioPortal, mixed_allen_2018			Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	4.47	1	1.0	Yes	high	TMB-high irGS	193.0	2.287801729930226	1
+Case417	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1	0.0	4.61	1	1.0	Yes	high	TMB-high irGS	192.0	2.285557309007774	1
+Case418	cBioPortal, mixed_allen_2018	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	8.29	1	0.0	Yes	low	TMB-low irGS	81.0	1.9138138523837167	1
+Case419	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1+CTLA4	0.0	4.9	0	0.0	No	low	TMB-low non-irGS	98.0	1.99563519459755	0
+Case420	cBioPortal, mixed_allen_2018	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	15.39	1	1.0	Yes	high	TMB-high irGS	336.0	2.5276299008713385	1
+Case421	cBioPortal, mixed_allen_2018	1.0	70-80	Female	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	21.81	1	1.0	Yes	high	TMB-high irGS	251.0	2.401400540781544	1
+Case422	cBioPortal, mixed_allen_2018	0.0	50-60	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	16.32	1	1.0	Yes	high	TMB-high irGS	249.0	2.397940008672037	1
+Case423	cBioPortal, mixed_allen_2018	0.0	50-60	Female	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	24.01	1	0.0	Yes	low	TMB-low irGS	93.0	1.9731278535996983	1
+Case424	cBioPortal, mixed_allen_2018	0.0	50-60	Female	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	6.41	0	0.0	No	low	TMB-low non-irGS	80.0	1.9084850188786495	1
+Case425	cBioPortal, mixed_allen_2018	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	7.01	1	0.0	Yes	low	TMB-low irGS	113.0	2.0569048513364727	1
+Case426	cBioPortal, mixed_allen_2018			Female	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	24.47	1	0.0	Yes	low	TMB-low irGS	115.0	2.0644579892269186	1
+Case427	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	3.13	1	1.0	Yes	high	TMB-high irGS	252.0	2.403120521175818	1
+Case428	cBioPortal, mixed_allen_2018			Female	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	11.84	0	0.0	No	low	TMB-low non-irGS	40.0	1.6127838567197357	1
+Case429	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	16.58	1	1.0	Yes	high	TMB-high irGS	925.0	2.966610986681934	1
+Case430	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	5.56	1	1.0	Yes	high	TMB-high irGS	287.0	2.459392487759231	1
+Case431	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	16.12	1	1.0	Yes	high	TMB-high irGS	302.0	2.481442628502305	1
+Case432	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	4.67	1	1.0	Yes	high	TMB-high irGS	264.0	2.423245873936808	1
+Case433	cBioPortal, mixed_allen_2018	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	13.52	1	1.0	Yes	high	TMB-high irGS	284.0	2.45484486000851	1
+Case434	cBioPortal, mixed_allen_2018			Female	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	3.45	1	0.0	Yes	low	TMB-low irGS	131.0	2.12057393120585	1
+Case435	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1+CTLA4	1.0	12.11	0	0.0	No	low	TMB-low non-irGS	85.0	1.934498451243568	0
+Case436	cBioPortal, mixed_allen_2018			Female	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	16.55	1	1.0	Yes	high	TMB-high irGS	190.0	2.281033367247728	1
+Case437	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	2.43	0	0.0	No	low	TMB-low non-irGS	107.0	2.03342375548695	1
+Case438	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	16.71	1	0.0	Yes	low	TMB-low irGS	160.0	2.206825876031849	1
+Case439	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	3.16	1	0.0	Yes	low	TMB-low irGS	104.0	2.0211892990699383	1
+Case440	cBioPortal, mixed_allen_2018			Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	44.34	1	1.0	Yes	high	TMB-high irGS	437.0	2.6414741105041	1
+Case441	cBioPortal, mixed_allen_2018	0.0	50-60	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	9.44	1	1.0	Yes	high	TMB-high irGS	416.0	2.6201360549737576	1
+Case442	cBioPortal, mixed_allen_2018	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	8.95	1	1.0	Yes	high	TMB-high irGS	261.0	2.418301291319745	1
+Case443	cBioPortal, mixed_allen_2018	0.0	50-60	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	5.72	1	0.0	Yes	low	TMB-low irGS	145.0	2.164352855784437	1
+Case444	cBioPortal, mixed_allen_2018	1.0	60-70	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	3.49	0	1.0	No	high	TMB-high non-irGS	269.0	2.431363764158988	1
+Case445	cBioPortal, mixed_allen_2018	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	6.48	0	0.0	No	low	TMB-low non-irGS	75.0	1.8808135922807916	1
+Case446	cBioPortal, mixed_allen_2018	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	1.78	1	0.0	Yes	low	TMB-low irGS	84.0	1.9294189257142929	1
+Case447	cBioPortal, mixed_allen_2018	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	8.39	1	0.0	Yes	low	TMB-low irGS	132.0	2.123851640967086	1
+Case448	cBioPortal, mixed_allen_2018			Female	3_Bladder	3_Bladder	5_Others	PD1/PDL1	0.0	13.03	1	0.0	Yes	low	TMB-low irGS	54.0	1.740362689494244	1
+Case449	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1+CTLA4	0.0	5.56	0	0.0	No	low	TMB-low non-irGS	56.0	1.7558748556724917	0
+Case450	cBioPortal, mixed_allen_2018	1.0	70-80	Male	3_Bladder	3_Bladder	5_Others	PD1/PDL1	1.0	4.7	1	0.0	Yes	low	TMB-low irGS	144.0	2.161368002234975	1
+Case451	cBioPortal, mixed_allen_2018			Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	24.18	1	1.0	Yes	high	TMB-high irGS	180.0	2.257678574869185	1
+Case452	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1	1.0	1.51	1	1.0	Yes	high	TMB-high irGS	365.0	2.5634810853944106	1
+Case453	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1+CTLA4	1.0	2.34	1	1.0	Yes	high	TMB-high irGS	287.0	2.459392487759231	0
+Case454	cBioPortal, mixed_allen_2018			Female	4_HeadNeck	5_Others	5_Others	PD1/PDL1	1.0	1.97	0	0.0	No	low	TMB-low non-irGS	26.0	1.4313637641589874	1
+Case455	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1	0.0	12.43	1	1.0	Yes	high	TMB-high irGS	329.0	2.5185139398778875	1
+Case456	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1+CTLA4	0.0	3.72	0	0.0	No	low	TMB-low non-irGS	41.0	1.6232492903979006	0
+Case457	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1	1.0	13.22	0	0.0	No	low	TMB-low non-irGS	38.0	1.591064607026499	1
+Case458	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1	0.0	15.13	0	0.0	No	low	TMB-low non-irGS	32.0	1.5185139398778875	1
+Case459	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1	1.0	8.75	0	0.0	No	low	TMB-low non-irGS	82.0	1.919078092376074	1
+Case460	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	24.08	1	0.0	Yes	low	TMB-low irGS	115.0	2.0644579892269186	1
+Case461	cBioPortal, mixed_allen_2018			Male	4_HeadNeck	5_Others	5_Others	PD1/PDL1	1.0	20.39	0	0.0	No	low	TMB-low non-irGS	55.0	1.7481880270062005	1
+Case462	cBioPortal, mixed_allen_2018	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	14.7	1	1.0	Yes	high	TMB-high irGS	597.0	2.776701183988411	1
+Case463	cBioPortal, mixed_allen_2018	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	1.88	0	0.0	No	low	TMB-low non-irGS	81.0	1.9138138523837167	1
+Case464	cBioPortal, mixed_allen_2018	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	4.18	1	1.0	Yes	high	TMB-high irGS	227.0	2.357934847000454	1
+Case465	cBioPortal, mixed_allen_2018	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	14.51	1	1.0	Yes	high	TMB-high irGS	283.0	2.453318340047037	1
+Case466	cBioPortal, mixed_allen_2018	0.0	40-50	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	1.88	0	0.0	No	low	TMB-low non-irGS	96.0	1.9867717342662448	1
+Case467	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1/PDL1	0.0	12.01	1	1.0	Yes	high	TMB-high irGS	1032.0	3.0141003215196207	1
+Case468	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	PD1/PDL1	0.0	19.74	0	0.0	No	low	TMB-low non-irGS	51.0	1.7160033436347992	1
+Case469	cBioPortal, mixed_allen_2018	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	3.98	1	1.0	Yes	high	TMB-high irGS	287.0	2.459392487759231	1
+Case470	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	52.83	1	1.0	Yes	high	TMB-high irGS	1188.0	3.0751818546186915	1
+Case471	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	63.63	1	1.0	Yes	high	TMB-high irGS	1300.0	3.1142772965615864	1
+Case472	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	31.32	1	1.0	Yes	high	TMB-high irGS	755.0	2.8785217955012063	1
+Case473	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	23.26	1	1.0	Yes	high	TMB-high irGS	517.0	2.714329759745233	1
+Case474	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	32.42	1	0.0	Yes	low	TMB-low irGS	136.0	2.1367205671564067	1
+Case475	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	51.63	1	1.0	Yes	high	TMB-high irGS	310.0	2.492760389026837	1
+Case476	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	54.03	1	1.0	Yes	high	TMB-high irGS	502.0	2.7015679850559278	1
+Case477	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	44.42	1	1.0	Yes	high	TMB-high irGS	560.0	2.7489628612561616	1
+Case478	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	25.21	1	1.0	Yes	high	TMB-high irGS	1776.0	3.2496874278053016	1
+Case479	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	68.44	1	1.0	Yes	high	TMB-high irGS	251.0	2.401400540781544	1
+Case480	cBioPortal, mixed_allen_2018	0.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	9.8	1	1.0	Yes	high	TMB-high irGS	222.0	2.3483048630481607	1
+Case481	cBioPortal, mixed_allen_2018	1.0	80-	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	22.24	0	1.0	No	high	TMB-high non-irGS	2065.0	3.315130317183602	1
+Case482	cBioPortal, mixed_allen_2018	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	22.63	1	1.0	Yes	high	TMB-high irGS	609.0	2.785329835010767	1
+Case483	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	9.93	1	1.0	Yes	high	TMB-high irGS	346.0	2.5403294747908736	1
+Case484	cBioPortal, mixed_allen_2018	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	10.39	1	0.0	Yes	low	TMB-low irGS	101.0	2.008600171761917	1
+Case485	cBioPortal, mixed_allen_2018	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	1.38	0	0.0	No	low	TMB-low non-irGS	66.0	1.8260748027008264	1
+Case486	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	73.24	0	1.0	No	high	TMB-high non-irGS	3155.0	3.4991369945373827	1
+Case487	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	72.3	1	1.0	Yes	high	TMB-high irGS	246.0	2.392696953259666	1
+Case488	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	73.24	1	1.0	Yes	high	TMB-high irGS	1571.0	3.196452541703389	1
+Case489	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	25.33	1	0.0	Yes	low	TMB-low irGS	120.0	2.0827853703164503	1
+Case490	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	50.43	1	1.0	Yes	high	TMB-high irGS	471.0	2.673941998634088	1
+Case491	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	19.21	1	1.0	Yes	high	TMB-high irGS	1017.0	3.00774777800074	1
+Case492	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	25.21	1	0.0	Yes	low	TMB-low irGS	73.0	1.869231719730976	1
+Case493	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	14.41	0	0.0	No	low	TMB-low non-irGS	25.0	1.414973347970818	1
+Case494	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	32.42	1	1.0	Yes	high	TMB-high irGS	959.0	2.9822712330395684	1
+Case495	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	7.2	1	1.0	Yes	high	TMB-high irGS	263.0	2.4216039268698317	1
+Case496	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	2.4	1	1.0	Yes	high	TMB-high irGS	231.0	2.3654879848909	1
+Case497	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	14.41	1	1.0	Yes	high	TMB-high irGS	1555.0	3.1920095926536702	1
+Case498	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	8.4	1	1.0	Yes	high	TMB-high irGS	518.0	2.7151673578484576	1
+Case499	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	4.8	1	1.0	Yes	high	TMB-high irGS	337.0	2.5289167002776547	1
+Case500	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	6.0	1	1.0	Yes	high	TMB-high irGS	1048.0	3.020775488193558	1
+Case501	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	2.76	1	1.0	Yes	high	TMB-high irGS	300.0	2.478566495593844	1
+Case502	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	20.41	1	1.0	Yes	high	TMB-high irGS	397.0	2.599883072073688	1
+Case503	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	3.6	1	0.0	Yes	low	TMB-low irGS	126.0	2.103803720955957	1
+Case504	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	6.0	1	1.0	Yes	high	TMB-high irGS	363.0	2.561101383649056	1
+Case505	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	9.61	1	1.0	Yes	high	TMB-high irGS	579.0	2.7634279935629373	1
+Case506	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	18.01	0	0.0	No	low	TMB-low non-irGS	74.0	1.8750612633917	1
+Case507	cBioPortal, mixed_allen_2018	0.0	40-50	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	1.88	0	0.0	No	low	TMB-low non-irGS	69.0	1.845098040014257	1
+Case508	cBioPortal, mixed_allen_2018	0.0	30-40	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	11.58	0	0.0	No	low	TMB-low non-irGS	20.0	1.3222192947339193	1
+Case509	cBioPortal, mixed_allen_2018	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.61	0	0.0	No	low	TMB-low non-irGS	58.0	1.7708520116421442	1
+Case510	cBioPortal, mixed_allen_2018	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	33.06	1	1.0	Yes	high	TMB-high irGS	213.0	2.330413773349191	1
+Case511	cBioPortal, mixed_allen_2018	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	16.58	1	1.0	Yes	high	TMB-high irGS	431.0	2.635483746814912	1
+Case512	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	35.95	0	0.0	No	low	TMB-low non-irGS	34.0	1.5440680443502757	1
+Case513	cBioPortal, mixed_allen_2018	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	2.07	0	0.0	No	low	TMB-low non-irGS	64.0	1.8129133566428557	1
+Case514	cBioPortal, mixed_allen_2018			Female	5_Others	5_Others	5_Others	PD1/PDL1	0.0	24.01	0	0.0	No	low	TMB-low non-irGS	51.0	1.7160033436347992	1
+Case515	cBioPortal, mixed_allen_2018	0.0	40-50	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	1.88	0	0.0	No	low	TMB-low non-irGS	103.0	2.0170333392987803	1
+Case516	cBioPortal, mixed_allen_2018	0.0	40-50	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	29.51	1	0.0	Yes	low	TMB-low irGS	109.0	2.041392685158225	1
+Case517	cBioPortal, mixed_allen_2018	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	3.16	1	0.0	Yes	low	TMB-low irGS	74.0	1.8750612633917	1
+Case518	cBioPortal, mixed_allen_2018	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	14.24	1	1.0	Yes	high	TMB-high irGS	1002.0	3.0013009330204183	1
+Case519	cBioPortal, mixed_allen_2018	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	14.77	1	1.0	Yes	high	TMB-high irGS	174.0	2.2430380486862944	1
+Case520	cBioPortal, mixed_allen_2018	0.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	1.05	1	0.0	Yes	low	TMB-low irGS	94.0	1.977723605288848	1
+Case521	cBioPortal, mixed_allen_2018	1.0	70-80	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	5.82	1	0.0	Yes	low	TMB-low irGS	124.0	2.096910013008056	1
+Case522	cBioPortal, mixed_allen_2018	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	9.93	0	0.0	No	low	TMB-low non-irGS	145.0	2.164352855784437	1
+Case523	cBioPortal, mixed_allen_2018	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	5.99	1	0.0	Yes	low	TMB-low irGS	96.0	1.9867717342662448	1
+Case524	cBioPortal, mixed_allen_2018	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	11.15	1	0.0	Yes	low	TMB-low irGS	80.0	1.9084850188786495	1
+Case525	cBioPortal, mixed_allen_2018	0.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	11.94	1	0.0	Yes	low	TMB-low irGS	100.0	2.004321373782642	1
+Case526	cBioPortal, mixed_allen_2018	1.0	70-80	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	1.0	4.34	1	0.0	Yes	low	TMB-low irGS	108.0	2.037426497940624	1
+Case527	cBioPortal, mixed_allen_2018	0.0	40-50	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	15.95	0	0.0	No	low	TMB-low non-irGS	47.0	1.6812412373755872	1
+Case528	cBioPortal, mixed_allen_2018	0.0	50-60	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	3.39	0	0.0	No	low	TMB-low non-irGS	93.0	1.9731278535996983	1
+Case529	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	24.01	1	1.0	Yes	high	TMB-high irGS	1114.0	3.0472748673841794	1
+Case530	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	8.4	1	1.0	Yes	high	TMB-high irGS	564.0	2.7520484478194387	1
+Case531	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	83.13	1	1.0	Yes	high	TMB-high irGS	300.0	2.478566495593844	1
+Case532	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	19.21	1	0.0	Yes	low	TMB-low irGS	148.0	2.173186268412274	1
+Case533	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	32.42	0	0.0	No	low	TMB-low non-irGS	64.0	1.8129133566428557	1
+Case534	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	14.41	1	1.0	Yes	high	TMB-high irGS	248.0	2.3961993470957363	1
+Case535	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	47.89	1	0.0	Yes	low	TMB-low irGS	141.0	2.1522883443830563	1
+Case536	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	9.61	0	0.0	No	low	TMB-low non-irGS	34.0	1.5440680443502757	1
+Case537	cBioPortal, mixed_allen_2018			Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	24.01	1	1.0	Yes	high	TMB-high irGS	822.0	2.91539983521227	1
+Case538	cBioPortal, mixed_allen_2018			Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	34.82	1	1.0	Yes	high	TMB-high irGS	508.0	2.7067177823367587	1
+Case539	cBioPortal, mixed_allen_2018	0.0	50-60	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	8.29	1	1.0	Yes	high	TMB-high irGS	188.0	2.2764618041732443	1
+Case540	cBioPortal, mixed_allen_2018	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	12.6	1	1.0	Yes	high	TMB-high irGS	341.0	2.534026106056135	1
+Case541	cBioPortal, mixed_allen_2018	1.0	60-70	Male	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	27.3	0	1.0	No	high	TMB-high non-irGS	252.0	2.403120521175818	1
+Case542	cBioPortal, mixed_allen_2018	1.0	60-70	Female	2_Lung	2_Lung	2_Lung	PD1/PDL1	0.0	8.39	1	1.0	Yes	high	TMB-high irGS	1090.0	3.037824750588342	1
+Case543	cBioPortal, mixed_allen_2018	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	9.64	0	0.0	No	low	TMB-low non-irGS	72.0	1.863322860120456	1
+Case544	cBioPortal, mixed_allen_2018	1.0	80-	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	15.07	1	1.0	Yes	high	TMB-high irGS	484.0	2.6857417386022635	1
+Case545	cBioPortal, mixed_allen_2018	0.0	-30	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	33.78	0	0.0	No	low	TMB-low non-irGS	49.0	1.6989700043360187	1
+Case546	cBioPortal, mixed_allen_2018	1.0	70-80	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	31.94	0	0.0	No	low	TMB-low non-irGS	34.0	1.5440680443502757	1
+Case547	cBioPortal, mixed_allen_2018	1.0	80-	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	22.24	1	1.0	Yes	high	TMB-high irGS	1318.0	3.120244795546365	1
+Case548	cBioPortal, mixed_allen_2018	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	37.3	0	0.0	No	low	TMB-low non-irGS	36.0	1.568201724066995	1
+Case549	cBioPortal, mixed_allen_2018	1.0	60-70	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.96	0	0.0	No	low	TMB-low non-irGS	97.0	1.9912260756924949	1
+Case550	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	15.33	0	0.0	No	low	TMB-low non-irGS	83.0	1.9242792860618816	1
+Case551	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	3.55	1	1.0	Yes	high	TMB-high irGS	206.0	2.315970345456918	1
+Case552	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	6.74	1	1.0	Yes	high	TMB-high irGS	197.0	2.296665190261531	1
+Case553	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.2	1	1.0	Yes	high	TMB-high irGS	246.0	2.392696953259666	1
+Case554	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	13.42	0	0.0	No	low	TMB-low non-irGS	56.0	1.7558748556724917	1
+Case555	cBioPortal, mixed_allen_2018	0.0	30-40	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.53	0	0.0	No	low	TMB-low non-irGS	37.0	1.57978359661681	1
+Case556	cBioPortal, mixed_allen_2018	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	24.64	1	0.0	Yes	low	TMB-low irGS	104.0	2.0211892990699383	1
+Case557	cBioPortal, mixed_allen_2018	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	6.94	0	0.0	No	low	TMB-low non-irGS	69.0	1.845098040014257	1
+Case558	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	5.0	0	0.0	No	low	TMB-low non-irGS	48.0	1.6901960800285136	1
+Case559	cBioPortal, mixed_allen_2018	1.0	60-70	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	26.68	1	1.0	Yes	high	TMB-high irGS	1731.0	3.238547887681328	1
+Case560	cBioPortal, mixed_allen_2018	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	27.7	1	1.0	Yes	high	TMB-high irGS	516.0	2.7134905430939424	1
+Case561	cBioPortal, mixed_allen_2018	1.0	60-70	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.83	1	0.0	Yes	low	TMB-low irGS	121.0	2.0863598306747484	1
+Case562	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	6.71	0	1.0	No	high	TMB-high non-irGS	2358.0	3.3727279408855955	1
+Case563	cBioPortal, mixed_allen_2018	0.0	30-40	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	1.64	1	1.0	Yes	high	TMB-high irGS	221.0	2.346352974450639	1
+Case564	cBioPortal, mixed_allen_2018	0.0	30-40	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.76	1	1.0	Yes	high	TMB-high irGS	237.0	2.376576957056512	1
+Case565	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	7.37	1	1.0	Yes	high	TMB-high irGS	536.0	2.7299742856995555	1
+Case566	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	28.62	1	1.0	Yes	high	TMB-high irGS	246.0	2.392696953259666	1
+Case567	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	5.03	1	1.0	Yes	high	TMB-high irGS	840.0	2.924795995797912	1
+Case568	cBioPortal, mixed_allen_2018	0.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	16.18	1	1.0	Yes	high	TMB-high irGS	302.0	2.481442628502305	1
+Case569	cBioPortal, mixed_allen_2018	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	5.36	0	0.0	No	low	TMB-low non-irGS	47.0	1.6812412373755872	1
+Case570	cBioPortal, mixed_allen_2018	0.0	50-60	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	3.26	1	1.0	Yes	high	TMB-high irGS	1282.0	3.1082266563749283	1
+Case571	cBioPortal, mixed_allen_2018	0.0	30-40	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	48.62	1	1.0	Yes	high	TMB-high irGS	5305.0	3.7247672456463103	1
+Case572	cBioPortal, mixed_allen_2018	0.0	-30	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.66	1	0.0	Yes	low	TMB-low irGS	170.0	2.2329961103921536	1
+Case573	cBioPortal, mixed_allen_2018	0.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	45.36	0	0.0	No	low	TMB-low non-irGS	40.0	1.6127838567197357	1
+Case574	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.84	1	1.0	Yes	high	TMB-high irGS	657.0	2.818225893613956	1
+Case575	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	48.91	1	0.0	Yes	low	TMB-low irGS	71.0	1.8573324964312683	1
+Case576	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.21	1	1.0	Yes	high	TMB-high irGS	333.0	2.523746466811565	1
+Case577	cBioPortal, mixed_allen_2018	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	3.42	1	1.0	Yes	high	TMB-high irGS	385.0	2.586587304671755	1
+Case578	cBioPortal, mixed_allen_2018	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	20.66	0	0.0	No	low	TMB-low non-irGS	97.0	1.9912260756924949	1
+Case579	cBioPortal, mixed_allen_2018	0.0	40-50	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	23.82	0	1.0	No	high	TMB-high non-irGS	200.0	2.303196057420489	1
+Case580	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	26.35	1	1.0	Yes	high	TMB-high irGS	272.0	2.436162647040756	1
+Case581	cBioPortal, mixed_allen_2018	0.0	-30	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	33.85	1	1.0	Yes	high	TMB-high irGS	347.0	2.5415792439465807	1
+Case582	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.57	1	1.0	Yes	high	TMB-high irGS	189.0	2.278753600952829	1
+Case583	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	6.35	1	1.0	Yes	high	TMB-high irGS	471.0	2.673941998634088	1
+Case584	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	14.54	1	1.0	Yes	high	TMB-high irGS	207.0	2.318063334962761	1
+Case585	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	4.51	1	1.0	Yes	high	TMB-high irGS	747.0	2.873901597864461	1
+Case586	cBioPortal, mixed_allen_2018	0.0	30-40	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.6	0	0.0	No	low	TMB-low non-irGS	23.0	1.380211241711606	1
+Case587	cBioPortal, mixed_allen_2018	0.0	40-50	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	21.48	1	1.0	Yes	high	TMB-high irGS	305.0	2.48572142648158	1
+Case588	cBioPortal, mixed_allen_2018	1.0	80-	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	3.49	1	1.0	Yes	high	TMB-high irGS	617.0	2.790988475088816	1
+Case589	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	19.8	1	1.0	Yes	high	TMB-high irGS	1467.0	3.166726055580052	1
+Case590	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	17.83	1	1.0	Yes	high	TMB-high irGS	242.0	2.385606273598312	1
+Case591	cBioPortal, mixed_allen_2018	1.0	70-80	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	3.98	0	0.0	No	low	TMB-low non-irGS	10.0	1.0413926851582251	1
+Case592	cBioPortal, mixed_allen_2018	0.0	30-40	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	7.37	1	1.0	Yes	high	TMB-high irGS	243.0	2.387389826338729	1
+Case593	cBioPortal, mixed_allen_2018	0.0	50-60	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	21.45	0	1.0	No	high	TMB-high non-irGS	2427.0	3.38524868240322	1
+Case594	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	8.22	0	0.0	No	low	TMB-low non-irGS	58.0	1.7708520116421442	1
+Case595	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	7.73	0	0.0	No	low	TMB-low non-irGS	47.0	1.6812412373755872	1
+Case596	cBioPortal, mixed_allen_2018	1.0	70-80	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	6.35	1	1.0	Yes	high	TMB-high irGS	451.0	2.655138434811382	1
+Case597	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	6.84	1	1.0	Yes	high	TMB-high irGS	799.0	2.903089986991944	1
+Case598	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	6.22	1	1.0	Yes	high	TMB-high irGS	347.0	2.5415792439465807	1
+Case599	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.14	1	1.0	Yes	high	TMB-high irGS	397.0	2.599883072073688	1
+Case600	cBioPortal, mixed_allen_2018	0.0	30-40	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	34.01	1	1.0	Yes	high	TMB-high irGS	612.0	2.787460474518415	1
+Case601	cBioPortal, mixed_allen_2018	1.0	70-80	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	0.0	36.38	1	0.0	Yes	low	TMB-low irGS	128.0	2.110589710299249	1
+Case602	cBioPortal, mixed_allen_2018	0.0	30-40	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	5.26	1	1.0	Yes	high	TMB-high irGS	257.0	2.41161970596323	1
+Case603	cBioPortal, mixed_allen_2018	1.0	60-70	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	2.93	1	1.0	Yes	high	TMB-high irGS	826.0	2.9175055095525466	1
+Case604	cBioPortal, mixed_allen_2018	1.0	70-80	Female	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	1.22	0	1.0	No	high	TMB-high non-irGS	192.0	2.285557309007774	1
+Case605	cBioPortal, mixed_allen_2018	1.0	80-	Male	1_Melanoma	1_Melanoma	1_Melanoma	CTLA4	1.0	8.95	1	1.0	Yes	high	TMB-high irGS	706.0	2.8494194137969	1
+Case606	cBioPortal, mixed_allen_2018			Male	5_Others	5_Others	5_Others	PD1/PDL1	0.0	27.01	1	1.0	Yes	high	TMB-high irGS	205.0	2.3138672203691533	1
