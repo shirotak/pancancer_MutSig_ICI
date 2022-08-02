@@ -34,5 +34,8 @@ Data under the CC-BY-NC-4.0.
 Codes under the MIT license.
 ___
 ## Citation
-Currently, the paper is published as a preprint in MedRxiv.  
-[Mutation burden-orthogonal tumor genomic subtypes delineate responses to immune checkpoint therapy](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330v2)
+Mutation burden-orthogonal tumor genomic subtypes delineate responses to immune checkpoint therapy  
+Journal for ImmunoTherpy of Cancer. 2022 Jul;10(7):e004831.  
+http://dx.doi.org/10.1136/jitc-2022-004831.  
+PMID:35868660.  
+DOI:10.1136/jitc-2022-004831.  
